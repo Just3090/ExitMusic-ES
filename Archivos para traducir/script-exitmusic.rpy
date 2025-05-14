@@ -4,25 +4,25 @@
 translate spanish script_exitmusic_291cd73e:
 
     # "It's the day of the festival."
-    ""
+    "Ha llegado el día del festival."
 
 # game/script-exitmusic.rpy:20
 translate spanish script_exitmusic_f55f58cd:
 
     # "Of all days, I expected this to be the one where I'd be walking to school with Sayori."
-    ""
+    "Esperaba ir a clase con Sayori en un día tan señalado,"
 
 # game/script-exitmusic.rpy:21
 translate spanish script_exitmusic_5f35e367:
 
     # "But Sayori isn't answering her phone."
-    ""
+    "pero Sayori no contesta el teléfono."
 
 # game/script-exitmusic.rpy:22
 translate spanish script_exitmusic_f01b5f50:
 
     # "I consider going to her house to wake her up."
-    ""
+    "Había pensado en ir a su casa a despertarla, pero quizá es demasiado."
 
 # game/script-exitmusic.rpy:23
 translate spanish script_exitmusic_bf20ec7b:
