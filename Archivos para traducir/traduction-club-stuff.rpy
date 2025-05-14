@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/traduction-club-stuff.rpy:26
     old "Please select a language"
-    new ""
+    new "Selecciona un idioma"
 
