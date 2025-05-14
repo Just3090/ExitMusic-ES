@@ -27484,31 +27484,31 @@ translate spanish script_exitmusic3_dd12d49e:
 translate spanish script_exitmusic3_cbd61c93:
 
     # "Natsuki… if you can hear me…"
-    ""
+    "Natsuki... si puedes oírme..."
 
 # game/script-exitmusic.rpy:6648
 translate spanish script_exitmusic3_911a47f6:
 
     # "I will see you in the next life."
-    ""
+    "Te veré en la siguiente vida."
 
 # game/script-exitmusic.rpy:6649
 translate spanish script_exitmusic3_a20cefa7_2:
 
     # "..."
-    ""
+    "..."
 
 # game/script-exitmusic.rpy:6650
 translate spanish script_exitmusic3_4e61c6b6:
 
     # "This was the right choice."
-    ""
+    "Esta ha sido la decisión correcta."
 
 # game/script-exitmusic.rpy:6651
 translate spanish script_exitmusic3_ec93bca1:
 
     # "I did what I{nw}"
-    ""
+    "Hice lo que{nw}"
 
 translate spanish strings:
 
