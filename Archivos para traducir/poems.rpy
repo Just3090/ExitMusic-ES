@@ -1,5 +1,17 @@
 init python:
 
+    # LEER bien este comentario ya que es lo unico que hay que traducir de aqui,
+    # lo del mod, algunos poemas de DDLC base no se usan. A continuacion se
+    # enlistan los poemas que se usan via in-game declarados en script-exitmusic.rpy
+    #
+    # 1.- poem_me1
+    # 2.- poem_s3
+    # 3.- poem_s4
+    # 4.- poem_s5
+    # 5.- poem_n4
+    # 6.- poem_mum
+    # 7.- poem_me2
+
     poem_y1_spanish = Poem(
     author = "yuri",
     title = "Ghost Under the Light",
