@@ -1198,79 +1198,79 @@ translate spanish script_exitmusic_651fd4fc:
 translate spanish script_exitmusic_2c4e2e70:
 
     # s "I just don’t want to make a big deal out of it, especially in front of the other club members."
-    s ""
+    s "Es que no quiero que esto se convierta en un drama."
 
 # game/script-exitmusic.rpy:249
 translate spanish script_exitmusic_1950528a:
 
     # "I stand up."
-    ""
+    "Me levanto."
 
 # game/script-exitmusic.rpy:250
 translate spanish script_exitmusic_0a95b138:
 
     # mc "Sayori, I don’t think you understand how big of a deal this really is."
-    mc ""
+    mc "No creo que entiendas lo grave que es todo esto, Sayori."
 
 # game/script-exitmusic.rpy:251
 translate spanish script_exitmusic_42aba553:
 
     # mc "You nearly f-... you nearly killed yourself."
-    mc ""
+    mc "Casi la ibas pal... Casi te suicidas, Sayori."
 
 # game/script-exitmusic.rpy:252
 translate spanish script_exitmusic_b9a00b10:
 
     # mc "I think you should go home and rest for a couple days, okay?"
-    mc ""
+    mc "Creo que deberías irte a casa y descansar un par de días, ¿vale?"
 
 # game/script-exitmusic.rpy:253
 translate spanish script_exitmusic_a5bace38:
 
     # s 1by "I guess I’ll have to, right? Ehehe~"
-    s 1by ""
+    s 1by "No me queda otra, ¿eh? Je, je, je."
 
 # game/script-exitmusic.rpy:254
 translate spanish script_exitmusic_c9ba46af:
 
     # "Sayori lets out a small bout of almost nervous laughter."
-    ""
+    "Sayori suelta una risilla con un ápice de nerviosismo."
 
 # game/script-exitmusic.rpy:255
 translate spanish script_exitmusic_d713f793:
 
     # mc "It’s a good idea, at least. You know that."
-    mc ""
+    mc "Al menos es lo mejor que puedes hacer. Lo sabes."
 
 # game/script-exitmusic.rpy:256
 translate spanish script_exitmusic_927af2d5:
 
     # s 2bk "But what about the festival?"
-    s 2bk ""
+    s 2bk "¿Pero qué pasa con el festival?"
 
 # game/script-exitmusic.rpy:257
 translate spanish script_exitmusic_e9f1a195:
 
     # "I hesitate."
-    ""
+    "Dudo por un momento."
 
 # game/script-exitmusic.rpy:258
 translate spanish script_exitmusic_11b897f3:
 
     # "I don’t want Sayori to feel like it’s her fault that the performance was cancelled, so I decide to start with Natsuki’s absence."
-    ""
+    "No quiero que Sayori se sienta culpable por la cancelación del festival, así que decido empezar mencionando la ausencia de Natsuki."
 
 # game/script-exitmusic.rpy:259
 translate spanish script_exitmusic_366cdb63:
 
     # mc "Well... Natsuki didn’t actually show up either."
-    mc ""
+    mc "Bueno... Natsuki tampoco ha aparecido."
 
 # game/script-exitmusic.rpy:260
 translate spanish script_exitmusic_f7a2f400:
 
     # mc "Monika had to cancel the performance, unfortunately."
-    mc ""
+    mc "Por desgracia, Monika ha tenido que cancelar la actuación."
 
 # game/script-exitmusic.rpy:261
 translate spanish script_exitmusic_bc35c45a:
