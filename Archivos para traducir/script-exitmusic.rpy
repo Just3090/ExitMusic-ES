@@ -1276,13 +1276,13 @@ translate spanish script_exitmusic_f7a2f400:
 translate spanish script_exitmusic_bc35c45a:
 
     # s 2bj "You didn’t.. You didn’t tell her, did you?"
-    s 2bj ""
+    s 2bj "No... no se lo dijiste, ¿verdad?"
 
 # game/script-exitmusic.rpy:262
 translate spanish script_exitmusic_d6b18097:
 
     # s 2bi "About-"
-    s 2bi ""
+    s 2bi "A ver..."
 
 # game/script-exitmusic.rpy:263
 translate spanish script_exitmusic_8aca707a:
