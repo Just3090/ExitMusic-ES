@@ -346,13 +346,13 @@ translate spanish script_exitmusic_b34ab636:
 translate spanish script_exitmusic_78ce1890:
 
     # "There is a short pause."
-    "Sayori se detiene por un momento."
+    "El tiempo se detiene por un momento."
 
 # game/script-exitmusic.rpy:83
 translate spanish script_exitmusic_2ea4527b:
 
     # "All is silent, aside from Sayori’s sobbing."
-    "Hay un silencio abrumador, quitando los sollozos de Sayori."
+    "Hay un silencio abrumador... quitando que Sayori está sollozando y es lo único que se escucha."
 
 # game/script-exitmusic.rpy:84
 translate spanish script_exitmusic_1f42505f:
