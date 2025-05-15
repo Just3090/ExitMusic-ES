@@ -28,637 +28,637 @@ translate spanish script_exitmusic_f01b5f50:
 translate spanish script_exitmusic_bf20ec7b:
 
     # "It's not a big deal to at least wait for her, or help her wake up."
-    ""
+    "Esperarla o ayudarla a levantarse de la cama no me supondría un gran sacrificio."
 
 # game/script-exitmusic.rpy:24
 translate spanish script_exitmusic_e601aa4e:
 
     # "Even the simple gesture of walking her to school makes her really happy."
-    ""
+    "El simple hecho de que vayamos juntos a clase le alegra el día."
 
 # game/script-exitmusic.rpy:25
 translate spanish script_exitmusic_70e7cabf:
 
     # "Besides..."
-    ""
+    "Además...,"
 
 # game/script-exitmusic.rpy:26
 translate spanish script_exitmusic_68430306:
 
     # "I told her yesterday that things will be the same as they always have been."
-    ""
+    "ayer le dije que todo volvería a la normalidad."
 
 # game/script-exitmusic.rpy:27
 translate spanish script_exitmusic_e35fe926:
 
     # "That's all she needs, and what I want to give her."
-    ""
+    "Es todo lo que necesita y es justo lo que quiero darle."
 
 # game/script-exitmusic.rpy:28
 translate spanish script_exitmusic_d39027fc:
 
     # "The hell with it. I’ll go get her."
-    ""
+    "A la mierda, me voy a por Sayori."
 
 # game/script-exitmusic.rpy:29
 translate spanish script_exitmusic_9952aa37:
 
     # "I grab the cupcakes Natsuki and I made yesterday, and make my way to Sayori’s."
-    ""
+    "Cojo los cupcakes que hicimos Natsuki y yo ayer y voy directo a casa de Sayori."
 
 # game/script-exitmusic.rpy:31
 translate spanish script_exitmusic_558b962d:
 
     # "I reach Sayori's house and knock on the door."
-    ""
+    "Llego a casa de Sayori y llamo a la puerta."
 
 # game/script-exitmusic.rpy:32
 translate spanish script_exitmusic_b8d78e77:
 
     # "I don't expect an answer, since she's not picking up her phone, either."
-    ""
+    "No coge mis llamadas, así que tampoco espero respuesta."
 
 # game/script-exitmusic.rpy:33
 translate spanish script_exitmusic_a19898c6:
 
     # "Like yesterday, I open the door and let myself in."
-    ""
+    "Abro la puerta y me tomo la libertad de entrar, como hice ayer."
 
 # game/script-exitmusic.rpy:35
 translate spanish script_exitmusic_4f4ec354:
 
     # "She really is a heavy sleeper..."
-    ""
+    "Duerme como una marmota..."
 
 # game/script-exitmusic.rpy:36
 translate spanish script_exitmusic_17df0a8d:
 
     # "I swallow."
-    ""
+    "Trago saliva."
 
 # game/script-exitmusic.rpy:37
 translate spanish script_exitmusic_5166b167:
 
     # "I can't believe I ended up doing this after all."
-    ""
+    "No me puedo creer que haya acabado haciendo esto."
 
 # game/script-exitmusic.rpy:38
 translate spanish script_exitmusic_66baf796:
 
     # "Waking her up in her own house..."
-    ""
+    "Despertarla en su propia casa..."
 
 # game/script-exitmusic.rpy:39
 translate spanish script_exitmusic_d39780a5:
 
     # "Isn't that more like something a boyfriend would do?"
-    ""
+    "¿No es algo que haría una pareja?"
 
 # game/script-exitmusic.rpy:40
 translate spanish script_exitmusic_cc4d5947:
 
     # "In any case..."
-    ""
+    "En cualquier caso...,"
 
 # game/script-exitmusic.rpy:41
 translate spanish script_exitmusic_eff61fd1:
 
     # "It just feels right."
-    ""
+    "siento que es lo correcto."
 
 # game/script-exitmusic.rpy:42
 translate spanish script_exitmusic_b771a755:
 
     # "Outside Sayori's room, I knock on her door."
-    ""
+    "Cuando llego a su habitación, llamo a la puerta."
 
 # game/script-exitmusic.rpy:43
 translate spanish script_exitmusic_e766b9e2:
 
     # mc "Sayori?"
-    mc ""
+    mc "¿Sayori?"
 
 # game/script-exitmusic.rpy:44
 translate spanish script_exitmusic_2d697678:
 
     # mc "Wake up, dummy..."
-    mc ""
+    mc "Despierta, idiota..."
 
 # game/script-exitmusic.rpy:45
 translate spanish script_exitmusic_4f673053:
 
     # "There's no response."
-    ""
+    "No hay respuesta."
 
 # game/script-exitmusic.rpy:46
 translate spanish script_exitmusic_e55755b1:
 
     # "I really didn't want to have to enter her room like this..."
-    ""
+    "No quería tener que entrar en su cuarto de esta forma..."
 
 # game/script-exitmusic.rpy:47
 translate spanish script_exitmusic_5f524499:
 
     # "Isn't it kind of a breach of privacy?"
-    ""
+    "Parece una violación de su privacidad...,"
 
 # game/script-exitmusic.rpy:48
 translate spanish script_exitmusic_92ad08b5:
 
     # "But she really leaves me no choice."
-    ""
+    "pero no me queda otra."
 
 # game/script-exitmusic.rpy:49
 translate spanish script_exitmusic_b0993b5c:
 
     # "I gently open the door."
-    ""
+    "Abro la puerta con cuidado."
 
 # game/script-exitmusic.rpy:50
 translate spanish script_exitmusic_4afacb09:
 
     # mc "Sayo--{nw}"
-    mc ""
+    mc "Sayo...{nw}"
 
 # game/script-exitmusic.rpy:54
 translate spanish script_exitmusic_6ac7589d:
 
     # mc "...ri?!"
-    mc ""
+    mc "¡¿... ri?!"
 
 # game/script-exitmusic.rpy:55
 translate spanish script_exitmusic_2d7cce6a:
 
     # s "[player]?!"
-    s ""
+    s "¡¿[player]?!"
 
 # game/script-exitmusic.rpy:56
 translate spanish script_exitmusic_d61e5692:
 
     # "Sayori stands at the foot of her bed, a long rope in her hand."
-    ""
+    "Sayori está frente a su cama, con una cuerda bastante larga en su mano."
 
 # game/script-exitmusic.rpy:57
 translate spanish script_exitmusic_6978892e:
 
     # "It’s tied into a hangman’s noose."
-    ""
+    "Está atada con el propósito de ahorcarse."
 
 # game/script-exitmusic.rpy:58
 translate spanish script_exitmusic_9c578752:
 
     # "In the shock of the moment, I release my grip on the cupcakes."
-    ""
+    "En el impacto del momento, suelto la bandeja de cupcakes."
 
 # game/script-exitmusic.rpy:59
 translate spanish script_exitmusic_1d151520:
 
     # mc "What the {i}fuck?!{/i}"
-    mc ""
+    mc "¡¿PERO QUÉ COJONES?!"
 
 # game/script-exitmusic.rpy:60
 translate spanish script_exitmusic_dfa90397:
 
     # s 2cv "It- it's not what it--"
-    s 2cv ""
+    s 2cv "N-No... No es lo que..."
 
 # game/script-exitmusic.rpy:61
 translate spanish script_exitmusic_605c3bec:
 
     # mc "Like hell it’s not what it looks like!"
-    mc ""
+    mc "¡¿QUÉ COJONES ES LO QUE NO PARECE?!"
 
 # game/script-exitmusic.rpy:62
 translate spanish script_exitmusic_46239bca:
 
     # s 2cw "I-I’m so sorry, [player]!"
-    s 2cw ""
+    s 2cw "¡Lo siento mucho, [player]!"
 
 # game/script-exitmusic.rpy:63
 translate spanish script_exitmusic_98728d1f:
 
     # "I can’t believe this."
-    ""
+    "No me lo creo."
 
 # game/script-exitmusic.rpy:64
 translate spanish script_exitmusic_e69d35a0:
 
     # "Sayori wouldn’t do something like this..."
-    ""
+    "Sayori no haría nada parecido..."
 
 # game/script-exitmusic.rpy:65
 translate spanish script_exitmusic_21b0c241:
 
     # mc "Jesus-... Sayori..."
-    mc ""
+    mc "Dios, Sayori..."
 
 # game/script-exitmusic.rpy:66
 translate spanish script_exitmusic_b9d1e9d9:
 
     # mc "I should’ve known it was this bad."
-    mc ""
+    mc "Debía haber sabido que este camino no tenía salida."
 
 # game/script-exitmusic.rpy:67
 translate spanish script_exitmusic_616bc276:
 
     # "Sayori drops the noose to the floor."
-    ""
+    "Sayori tira la cuerda al suelo."
 
 # game/script-exitmusic.rpy:69
 translate spanish script_exitmusic_e87e0575:
 
     # mc "Sayori..."
-    mc ""
+    mc "Sayori..."
 
 # game/script-exitmusic.rpy:70
 translate spanish script_exitmusic_92ab6521:
 
     # mc "Why haven't you talked to anybody about this?"
-    mc ""
+    mc "¿Por qué no has hablado con nadie de esto?"
 
 # game/script-exitmusic.rpy:71
 translate spanish script_exitmusic_9d492a87:
 
     # s "I-I don't want to waste people's time..."
-    s ""
+    s "N-No quiero hacer perder el tiempo a nadie..."
 
 # game/script-exitmusic.rpy:72
 translate spanish script_exitmusic_fe3cf4a0:
 
     # mc "You're not wasting anybody's time."
-    mc ""
+    mc "No haces perder el tiempo a nadie."
 
 # game/script-exitmusic.rpy:73
 translate spanish script_exitmusic_a0c2eddc:
 
     # mc "We all just want you to be happy, like you've made us."
-    mc ""
+    mc "Intentamos hacerte feliz, como tú a nosotros."
 
 # game/script-exitmusic.rpy:74
 translate spanish script_exitmusic_653b133b:
 
     # mc "You... you really deserve to be happy."
-    mc ""
+    mc "Te... Te mereces ser feliz."
 
 # game/script-exitmusic.rpy:75
 translate spanish script_exitmusic_e458c764:
 
     # mc "I know you don't think that now, but..."
-    mc ""
+    mc "Sé que ahora no te lo crees, pero..."
 
 # game/script-exitmusic.rpy:76
 translate spanish script_exitmusic_e6c31c5b:
 
     # mc "Well, it's the truth."
-    mc ""
+    mc "A ver, es la verdad más pura."
 
 # game/script-exitmusic.rpy:77
 translate spanish script_exitmusic_3691c5ff:
 
     # mc "And I'm determined to help you every step of the way."
-    mc ""
+    mc "Y voy a ayudarte en cada paso que des."
 
 # game/script-exitmusic.rpy:78
 translate spanish script_exitmusic_2a2f286c:
 
     # mc "But to start, you {i}need{/i} to talk about this."
-    mc ""
+    mc "Pero, para empezar, VAS a hablar de esto que acaba de ocurrir."
 
 # game/script-exitmusic.rpy:79
 translate spanish script_exitmusic_52de57a4:
 
     # s 1cv "I..."
-    s 1cv ""
+    s 1cv "Yo..."
 
 # game/script-exitmusic.rpy:80
 translate spanish script_exitmusic_691045a1:
 
     # s "I can't."
-    s ""
+    s "No puedo hacerlo."
 
 # game/script-exitmusic.rpy:81
 translate spanish script_exitmusic_b34ab636:
 
     # s "I just..."
-    s ""
+    s "Es que..."
 
 # game/script-exitmusic.rpy:82
 translate spanish script_exitmusic_78ce1890:
 
     # "There is a short pause."
-    ""
+    "Sayori se detiene por un momento."
 
 # game/script-exitmusic.rpy:83
 translate spanish script_exitmusic_2ea4527b:
 
     # "All is silent, aside from Sayori’s sobbing."
-    ""
+    "Hay un silencio abrumador, quitando los sollozos de Sayori."
 
 # game/script-exitmusic.rpy:84
 translate spanish script_exitmusic_1f42505f:
 
     # s "I... I was about to do it, [player]..."
-    s ""
+    s "He estado a punto de hacerlo, [player]..."
 
 # game/script-exitmusic.rpy:85
 translate spanish script_exitmusic_c1d36633:
 
     # s 1cw "I’d have never seen you again."
-    s 1cw ""
+    s 1cw "No hubiera vuelto a verte nunca más."
 
 # game/script-exitmusic.rpy:86
 translate spanish script_exitmusic_e8f747f1:
 
     # mc "Sayori... could you imagine if I’d found you like that?"
-    mc ""
+    mc "Sayori, ¿te puedes imaginar... si te hubiese encontrado así?"
 
 # game/script-exitmusic.rpy:87
 translate spanish script_exitmusic_a0f90ef1:
 
     # s 1cv "I-I-I..."
-    s 1cv ""
+    s 1cv "Y-Y-Yo..."
 
 # game/script-exitmusic.rpy:88
 translate spanish script_exitmusic_0a080f6a:
 
     # mc "Sayori, listen. It doesn’t matter what you are going through, you’ll always have a reason to stay with us."
-    mc ""
+    mc "Escúchame, Sayori... No importa por lo que estés pasando, siempre tendrás un motivo para quedarte con nosotros."
 
 # game/script-exitmusic.rpy:89
 translate spanish script_exitmusic_a5192de3:
 
     # mc "Even if there’s only one thing worth living for to you, then you need to hold onto that."
-    mc ""
+    mc "Aunque solo haya una cosa por la que valga la pena vivir, agárrate a ella con todas tus fuerzas."
 
 # game/script-exitmusic.rpy:90
 translate spanish script_exitmusic_eea75656:
 
     # mc "And I know there is."
-    mc ""
+    mc "Y sé que la hay."
 
 # game/script-exitmusic.rpy:91
 translate spanish script_exitmusic_3495352a:
 
     # mc "You told me yourself yesterday."
-    mc ""
+    mc "Me lo dijiste ayer."
 
 # game/script-exitmusic.rpy:92
 translate spanish script_exitmusic_8ec92ac2:
 
     # s 1cu "[player]..."
-    s 1cu ""
+    s 1cu "[player]..."
 
 # game/script-exitmusic.rpy:93
 translate spanish script_exitmusic_5aaa529a:
 
     # "She releases her grip on me and backs away."
-    ""
+    "Se suelta y da un paso atrás."
 
 # game/script-exitmusic.rpy:94
 translate spanish script_exitmusic_1a011b89:
 
     # mc "We know it'll be tough, but I’ll be there for you."
-    mc ""
+    mc "Sabemos que será duro, pero estaré ahí para ti."
 
 # game/script-exitmusic.rpy:95
 translate spanish script_exitmusic_7c2fcf73:
 
     # mc "We all will."
-    mc ""
+    mc "Estaremos ahí para ti."
 
 # game/script-exitmusic.rpy:96
 translate spanish script_exitmusic_d355debe:
 
     # mc "No matter what."
-    mc ""
+    mc "Pase lo que pase."
 
 # game/script-exitmusic.rpy:97
 translate spanish script_exitmusic_425227a9:
 
     # s 4cu "[player], don't..."
-    s 4cu ""
+    s 4cu "[player], no..."
 
 # game/script-exitmusic.rpy:98
 translate spanish script_exitmusic_45bb9a0b:
 
     # mc "Now, listen to me. You need to talk to somebody professional about this."
-    mc ""
+    mc "Escúchame, Sayori, necesitas hablar con un profesional sobre lo que acaba de ocurrir."
 
 # game/script-exitmusic.rpy:99
 translate spanish script_exitmusic_351ce4c5:
 
     # mc "I'm not taking 'no' for an answer, Sayori."
-    mc ""
+    mc "Y no existe un 'no' por respuesta, que quede claro."
 
 # game/script-exitmusic.rpy:100
 translate spanish script_exitmusic_1f3303ab:
 
     # s "I don't think I-I'm ready..."
-    s ""
+    s "N-No creo que esté preparada..."
 
 # game/script-exitmusic.rpy:101
 translate spanish script_exitmusic_b7884adf:
 
     # s "W-we can go another time."
-    s ""
+    s "P-Podemos ir otro día..."
 
 # game/script-exitmusic.rpy:102
 translate spanish script_exitmusic_011b37b4:
 
     # mc "Not a chance."
-    mc ""
+    mc "Ni de coña."
 
 # game/script-exitmusic.rpy:103
 translate spanish script_exitmusic_a303d608:
 
     # mc "You seriously need professional help, as soon as possible."
-    mc ""
+    mc "Necesitas ayuda profesional, tan pronto como sea posible..."
 
 # game/script-exitmusic.rpy:104
 translate spanish script_exitmusic_3d61a73b:
 
     # mc "We're leaving {i}now{/i}."
-    mc ""
+    mc "y nos vamos YA."
 
 # game/script-exitmusic.rpy:105
 translate spanish script_exitmusic_a5763543:
 
     # s "I... I don't-... I don't know if I can..."
-    s ""
+    s "No... No sé si... No sé si estoy lista para..."
 
 # game/script-exitmusic.rpy:106
 translate spanish script_exitmusic_9f73f40c:
 
     # mc "Sayori, do it..."
-    mc ""
+    mc "Sayori, por favor. Hazlo..."
 
 # game/script-exitmusic.rpy:107
 translate spanish script_exitmusic_855eaba9:
 
     # mc "For me, if not for yourself."
-    mc ""
+    mc "Hazlo por mí si es que para ti no hay posibilidad."
 
 # game/script-exitmusic.rpy:108
 translate spanish script_exitmusic_0fa0ca9b:
 
     # "She sniffles, wiping her face with her sleeve."
-    ""
+    "Solloza y se seca la cara con la manga."
 
 # game/script-exitmusic.rpy:109
 translate spanish script_exitmusic_e2c02d35:
 
     # s 1ck "O-okay.."
-    s 1ck ""
+    s 1ck "V-Vale..."
 
 # game/script-exitmusic.rpy:110
 translate spanish script_exitmusic_01e9b410:
 
     # mc "Come on, let’s go."
-    mc ""
+    mc "Vamos, no perdamos tiempo."
 
 # game/script-exitmusic.rpy:111
 translate spanish script_exitmusic_54b6eb2c:
 
     # mc "To the doctor's."
-    mc ""
+    mc "Al doctor."
 
 # game/script-exitmusic.rpy:112
 translate spanish script_exitmusic_31c0af22:
 
     # mc "We'll take the bus."
-    mc ""
+    mc "Esperaremos a que llegue un autobús."
 
 # game/script-exitmusic.rpy:113
 translate spanish script_exitmusic_23d81314:
 
     # s "[player]..."
-    s ""
+    s "[player]..."
 
 # game/script-exitmusic.rpy:114
 translate spanish script_exitmusic_3e58d8d1:
 
     # s "The festival..."
-    s ""
+    s "El festival..."
 
 # game/script-exitmusic.rpy:115
 translate spanish script_exitmusic_0f7425d2:
 
     # mc "Screw the festival."
-    mc ""
+    mc "Que le jodan al festival, Sayori."
 
 # game/script-exitmusic.rpy:116
 translate spanish script_exitmusic_3ed8bb9a:
 
     # mc "You're more important to me than that."
-    mc ""
+    mc "Me importas más que eso."
 
 # game/script-exitmusic.rpy:117
 translate spanish script_exitmusic_7a206056:
 
     # s "W-well..."
-    s ""
+    s "B-Bueno..."
 
 # game/script-exitmusic.rpy:118
 translate spanish script_exitmusic_3926b869:
 
     # s 1ch "I-I need to get changed first."
-    s 1ch ""
+    s 1ch "N-Necesito cambiarme primero."
 
 # game/script-exitmusic.rpy:119
 translate spanish script_exitmusic_a4fcb7ef:
 
     # mc "Oh!"
-    mc ""
+    mc "¡Ay!"
 
 # game/script-exitmusic.rpy:120
 translate spanish script_exitmusic_42d3094e:
 
     # mc "Of course..."
-    mc ""
+    mc "P-Por supuesto..."
 
 # game/script-exitmusic.rpy:121
 translate spanish script_exitmusic_c2fcc840:
 
     # "I nod, and take a step outside the door, reaching down to pick up the rope first, taking it with me just in case."
-    ""
+    "Asiento y me aparto de su puerta, cogiendo del suelo la cuerda por si acaso."
 
 # game/script-exitmusic.rpy:122
 translate spanish script_exitmusic_e12d3b1f:
 
     # "She gently nods, shutting the door in my face."
-    ""
+    "Sayori asiente con delicadeza y me cierra en la cara."
 
 # game/script-exitmusic.rpy:124
 translate spanish script_exitmusic_76f72956:
 
     # "I’m a little anxious, leaving her alone right after... something like {i}this{/i}."
-    ""
+    "Estoy un poco nervioso. La acabo de dejar sola después de que... en fin, 'eso' que acaba de ocurrir."
 
 # game/script-exitmusic.rpy:125
 translate spanish script_exitmusic_988d8799:
 
     # "Regardless, she needs her privacy."
-    ""
+    "Aunque me fastidie, necesita privacidad."
 
 # game/script-exitmusic.rpy:126
 translate spanish script_exitmusic_cf84f0ed:
 
     # "I kneel down, beginning to clean up the cupcake massacre littering the floor with a towel."
-    ""
+    "Me arrodillo para limpiar del suelo el desastre de los cupcakes con una toalla."
 
 # game/script-exitmusic.rpy:127
 translate spanish script_exitmusic_21408033:
 
     # "Natsuki is going to kill me."
-    ""
+    "Natsuki me va a matar."
 
 # game/script-exitmusic.rpy:128
 translate spanish script_exitmusic_5865ec9e:
 
     # "I return downstairs and untie the noose, dropping the loose rope in the trash."
-    ""
+    "Bajo a la planta baja, deshago el nudo de la cuerda y la tiro a la basura."
 
 # game/script-exitmusic.rpy:129
 translate spanish script_exitmusic_45318441:
 
     # "I linger downstairs for a minute or two, before heading back upstairs."
-    ""
+    "Me quedo en la planta baja un par de minutos mientras Sayori se cambia de ropa."
 
 # game/script-exitmusic.rpy:130
 translate spanish script_exitmusic_0feab6da:
 
     # "{i}She's probably ready by now.{/i}"
-    ""
+    "Creo que estará lista."
 
 # game/script-exitmusic.rpy:131
 translate spanish script_exitmusic_6b98a64b:
 
     # "I knock on Sayori's door, and she answers."
-    ""
+    "Subo las escaleras y toco la puerta de Sayori. Me abre la puerta."
 
 # game/script-exitmusic.rpy:134
 translate spanish script_exitmusic_1f56feb7:
 
     # mc "Ready?"
-    mc ""
+    mc "¿Estás lista ya?"
 
 # game/script-exitmusic.rpy:135
 translate spanish script_exitmusic_d1c4b4d1:
 
     # "Sayori nods once, her eyes glued to the floor."
-    ""
+    "Sayori asiente una única vez mientras sus ojos azulados están pegados al suelo."
 
 # game/script-exitmusic.rpy:136
 translate spanish script_exitmusic_51058779:
 
     # s 1bg "T-this is what’s best for me, right?"
-    s 1bg ""
+    s 1bg "E-Esto es lo mejor para mí, ¿no?"
 
 # game/script-exitmusic.rpy:137
 translate spanish script_exitmusic_f7d37558:
 
     # "She stares at me, expectant of an answer."
-    ""
+    "Me mira fijamente, esperando una respuesta."
 
 # game/script-exitmusic.rpy:138
 translate spanish script_exitmusic_9b000101:
