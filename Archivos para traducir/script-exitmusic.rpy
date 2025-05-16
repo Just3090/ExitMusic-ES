@@ -1276,7 +1276,7 @@ translate spanish script_exitmusic_f7a2f400:
 translate spanish script_exitmusic_bc35c45a:
 
     # s 2bj "You didn’t.. You didn’t tell her, did you?"
-    s 2bj "No... no se lo dijiste, ¿verdad?"
+    s 2bj "No... No se lo dijiste, ¿verdad?"
 
 # game/script-exitmusic.rpy:262
 translate spanish script_exitmusic_d6b18097:
@@ -1360,7 +1360,7 @@ translate spanish script_exitmusic_8a7f9c9a:
 translate spanish script_exitmusic_42c3de85:
 
     # s "Maybe..."
-    s "Puede que..."
+    s "A lo mejor..."
 
 # game/script-exitmusic.rpy:276
 translate spanish script_exitmusic_95ab00f7:
