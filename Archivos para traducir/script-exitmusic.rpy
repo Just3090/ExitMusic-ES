@@ -2032,535 +2032,535 @@ translate spanish script_exitmusic_f57feab3:
 translate spanish script_exitmusic_e6649fe1:
 
     # "Even if she didn’t know about Sayori, it felt like it was too close to reality."
-    ""
+    "Aunque no supiera lo de Sayori, era como si hubiera dado justo en el clavo."
 
 # game/script-exitmusic.rpy:415
 translate spanish script_exitmusic_bb3ebedf:
 
     # mc "Wow, that’s harsh."
-    mc ""
+    mc "Qué cruel, ¿no?"
 
 # game/script-exitmusic.rpy:416
 translate spanish script_exitmusic_8afa56b1:
 
     # y 3t "I doubt she meant it, though!"
-    y 3t ""
+    y 3t "¡No creo que lo haya dicho a malas!"
 
 # game/script-exitmusic.rpy:417
 translate spanish script_exitmusic_948306bb:
 
     # y 2t "What I mean to say is, she was in no position to say that."
-    y 2t ""
+    y 2t "Lo que digo es que... no debía haberlo hecho."
 
 # game/script-exitmusic.rpy:418
 translate spanish script_exitmusic_c471ada9:
 
     # y 2h "I understand that she was frustrated about it, but there's never a good reason to say such horrible things about-"
-    y 2h ""
+    y 2h "Entiendo que estuviera enfadada, pero no hay excusas que valgan si vas a soltar cosas así por la boca..."
 
 # game/script-exitmusic.rpy:420
 translate spanish script_exitmusic_cd6da2aa:
 
     # "Yuri’s words get caught in her throat, and she retreats to the confines of her book."
-    ""
+    "Las palabras de Yuri se quedan en la garganta, volviendo así a los confines de su libro."
 
 # game/script-exitmusic.rpy:421
 translate spanish script_exitmusic_61cc3755:
 
     # "I turn and see Monika standing in the doorway, giving Yuri an intense glare."
-    ""
+    "Me doy la vuelta y veo a Monika en el umbral de la puerta, dando a Yuri una mirada intensa."
 
 # game/script-exitmusic.rpy:422
 translate spanish script_exitmusic_5e73944f:
 
     # "She doesn’t dare to meet Monika’s gaze, instead concentrating on the Portrait of Markov."
-    ""
+    "Ni siquiera quiere mirarla, prefiriendo estar concentrada en Retrato de Markov."
 
 # game/script-exitmusic.rpy:423
 translate spanish script_exitmusic_4165e641:
 
     # "I wish I could do the same."
-    ""
+    "Ojalá pudiese hacer lo mismo."
 
 # game/script-exitmusic.rpy:424
 translate spanish script_exitmusic_17df0a8d_1:
 
     # "I swallow."
-    ""
+    "Trago saliva."
 
 # game/script-exitmusic.rpy:425
 translate spanish script_exitmusic_9f66dccd:
 
     # "She huffs, and starts talking."
-    ""
+    "Suspira y empieza a hablar."
 
 # game/script-exitmusic.rpy:428
 translate spanish script_exitmusic_4f77d774:
 
     # m "Where’s Sayori? And Natsuki?"
-    m ""
+    m "¿Y Sayori? ¿Y Natsuki?"
 
 # game/script-exitmusic.rpy:429
 translate spanish script_exitmusic_1d427d0a:
 
     # "She stares at Yuri intently."
-    ""
+    "Se queda mirando intensamente a Yuri."
 
 # game/script-exitmusic.rpy:430
 translate spanish script_exitmusic_7c56c20d:
 
     # "Monika’s presence intimidates me."
-    ""
+    "Me intimida su presencia."
 
 # game/script-exitmusic.rpy:431
 translate spanish script_exitmusic_95b964c0:
 
     # mc "I-I don’t know, Monika."
-    mc ""
+    mc "N-No lo sé, Monika. Hablo en serio."
 
 # game/script-exitmusic.rpy:432
 translate spanish script_exitmusic_bf05682a:
 
     # mc "I haven’t seen them."
-    mc ""
+    mc "No las he visto."
 
 # game/script-exitmusic.rpy:434
 translate spanish script_exitmusic_57e22f90:
 
     # "She gives me an acidic stare, her emerald eyes piercing my confident facade."
-    ""
+    "Sus ojos color esmeralda penetran mi fachada protectora como si fuese ácido."
 
 # game/script-exitmusic.rpy:435
 translate spanish script_exitmusic_0737f670:
 
     # "Did Sayori tell her about the hospital?"
-    ""
+    "¿Le habrá dicho Sayori algo del hospital?"
 
 # game/script-exitmusic.rpy:436
 translate spanish script_exitmusic_eeff158c:
 
     # m "Are you sure?"
-    m ""
+    m "¿Seguro?"
 
 # game/script-exitmusic.rpy:437
 translate spanish script_exitmusic_5d6439da:
 
     # mc "I... yeah."
-    mc ""
+    mc "Yo... Sí, no las he visto."
 
 # game/script-exitmusic.rpy:438
 translate spanish script_exitmusic_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script-exitmusic.rpy:439
 translate spanish script_exitmusic_a53ccd5e:
 
     # m 1d "Alright then. How come you weren’t at the festival, [player]?"
-    m 1d ""
+    m 1d "Perfecto. ¿Cómo es que no apareciste por el festival, [player]?"
 
 # game/script-exitmusic.rpy:440
 translate spanish script_exitmusic_dbcedcdd:
 
     # mc "I had a... family emergency."
-    mc ""
+    mc "Una... emergencia familiar, Monika."
 
 # game/script-exitmusic.rpy:441
 translate spanish script_exitmusic_27b5c325:
 
     # "At this point I’m practically lying to her face to keep Sayori’s secret safe until she feels comfortable confiding in Monika."
-    ""
+    "Ahora mismo estoy prácticamente mintiéndole en la cara para guardarle el secreto a Sayori hasta que se sienta segura de contárselo. Muy bien, [player]."
 
 # game/script-exitmusic.rpy:442
 translate spanish script_exitmusic_5ff295f9:
 
     # "Then again, I’ve known Sayori for so long, she’s pretty much a part of my chosen family at this point."
-    ""
+    "Recalco que conozco a Sayori desde hace años y es casi de mi familia."
 
 # game/script-exitmusic.rpy:443
 translate spanish script_exitmusic_d1faee69:
 
     # "She’s like a sister to me."
-    ""
+    "Es como si fuese la hermana que nunca tuve."
 
 # game/script-exitmusic.rpy:444
 translate spanish script_exitmusic_a90478d6:
 
     # "So it’s more ‘stretching the truth’ than it is lying to her."
-    ""
+    "Esto es más 'Adornar la verdad' que mentirle, ahora que lo pienso."
 
 # game/script-exitmusic.rpy:445
 translate spanish script_exitmusic_fee79370:
 
     # "Well, that’s what I’ll tell myself, anyway."
-    ""
+    "Bueno, a ver, eso me digo a mí mismo. Para ella, es una mentira."
 
 # game/script-exitmusic.rpy:446
 translate spanish script_exitmusic_aa5a9e34:
 
     # m 2h "Right..."
-    m 2h ""
+    m 2h "Sí..."
 
 # game/script-exitmusic.rpy:447
 translate spanish script_exitmusic_b9d39ef9:
 
     # "Monika is not having any of this."
-    ""
+    "No se cree nada."
 
 # game/script-exitmusic.rpy:448
 translate spanish script_exitmusic_e60fe875:
 
     # "Even if she doesn’t know what’s actually going on, she must know I’m lying to her."
-    ""
+    "No sabe qué pasa, pero lo que sí sabe es que le estoy mintiendo descaradamente."
 
 # game/script-exitmusic.rpy:449
 translate spanish script_exitmusic_ae930a7c:
 
     # "But for Sayori's sake I have to keep face for her. I can’t betray her trust. If she finds out I told someone that private information..."
-    ""
+    "Por la voluntad de Sayori, debo plantarle cara. No puedo traicionarla. Si llega a saber que le he dicho a alguien algo tan privado..."
 
 # game/script-exitmusic.rpy:450
 translate spanish script_exitmusic_d010925c:
 
     # "Monika’s demeanor suddenly changes, and she looks at the two of us with a wry smile on her face."
-    ""
+    "Le cambia la cara de repente, mirándonos con una sonrisa ladeada."
 
 # game/script-exitmusic.rpy:451
 translate spanish script_exitmusic_ec5bff42:
 
     # m 2k "Okay, you two!"
-    m 2k ""
+    m 2k "¡Vale, chicos!"
 
 # game/script-exitmusic.rpy:452
 translate spanish script_exitmusic_ae2675be:
 
     # m 2b "Since we’re the only ones here, I’ve decided that we’re going to have to cancel today’s meeting. Hopefully, there won’t be any more {i}emergencies{/i} or {i}absences{/i} tomorrow."
-    m 2b ""
+    m 2b "Como somos los únicos, he decidido cancelar la reunión de hoy. Con suerte, mañana no habrán más 'emergencias' o 'ausencias' repentinas."
 
 # game/script-exitmusic.rpy:453
 translate spanish script_exitmusic_21119181:
 
     # "The emphasis on those words worry me, due to how aggressively she spoke them."
-    ""
+    "Me preocupa esas dos palabras recalcadas. Las ha dicho de forma agresiva."
 
 # game/script-exitmusic.rpy:454
 translate spanish script_exitmusic_d95edb2c:
 
     # m 2i "That’s all. You can leave now."
-    m 2i ""
+    m 2i "Eso es todo. Os podéis largar."
 
 # game/script-exitmusic.rpy:455
 translate spanish script_exitmusic_99562c61:
 
     # "Yuri looks up from her book guiltily and packs up, silently dropping the Portrait of Markov and her stationery kit into her bag."
-    ""
+    "Yuri mira a su libro con culpabilidad y recoge sus cosas, soltando de forma silenciosa el estuche y el libro en su bolsa."
 
 # game/script-exitmusic.rpy:456
 translate spanish script_exitmusic_07f80485:
 
     # "She scurries out of the classroom without a word."
-    ""
+    "Sale corriendo del aula sin mediar palabra."
 
 # game/script-exitmusic.rpy:460
 translate spanish script_exitmusic_ff3e88da:
 
     # "Monika turns her attention to me, expecting me to pack up."
-    ""
+    "Monika me dirige su atención, esperando a que recoja todo."
 
 # game/script-exitmusic.rpy:461
 translate spanish script_exitmusic_e194c0af:
 
     # "I nod and pick up my bag, exiting into the hallway without another word."
-    ""
+    "Asiento y cojo mi bolsa, saliendo al pasillo igual que Yuri: sin mediar palabra."
 
 # game/script-exitmusic.rpy:466
 translate spanish script_exitmusic_56740834:
 
     # "Walking through the school’s dormant hallways, I reach the door to the courtyard but stop, placing my head in my palm."
-    ""
+    "Mientras camino por los pasillos cercanos a la entrada, me paro en la puerta del patio de recreo, poniendo mi cabeza en la palma de mi mano."
 
 # game/script-exitmusic.rpy:467
 translate spanish script_exitmusic_4caefa74:
 
     # "I forgot my own stationery. I’m an idiot."
-    ""
+    "Me he olvidado del estuche, soy idiota."
 
 # game/script-exitmusic.rpy:469
 translate spanish script_exitmusic_f8e96dd9:
 
     # "I return to the clubroom hastily, to find my leather pencil-case opened."
-    ""
+    "Vuelvo a los pasillos del club para encontrar, una vez entré, mi estuche abierto."
 
 # game/script-exitmusic.rpy:470
 translate spanish script_exitmusic_5174e0e2:
 
     # "As I swipe it into my bag, I realize my pen is missing."
-    ""
+    "Lo devuelvo a mi bolsa y me doy cuenta de que me falta el bolígrafo."
 
 # game/script-exitmusic.rpy:471
 translate spanish script_exitmusic_7ece00eb:
 
     # "A quick glance around, and I conclude that I must have lost it earlier."
-    ""
+    "Echo un vistazo rápido... y me rindo, lo habré perdido antes. Ya me compraré otro."
 
 # game/script-exitmusic.rpy:472
 translate spanish script_exitmusic_a003e358:
 
     # "Returning to the courtyard, I notice Yuri."
-    ""
+    "Volviendo al patio de recreo, me doy cuenta de Yuri."
 
 # game/script-exitmusic.rpy:474
 translate spanish script_exitmusic_daeea69a:
 
     # "She’s moving hurriedly, clutching her bag tightly against her chest and wiping her face with her sleeve."
-    ""
+    "Se mueve rápidamente, apretando la bolsa en su pecho y secándose la cara con la manga de su chaqueta."
 
 # game/script-exitmusic.rpy:475
 translate spanish script_exitmusic_a09b77d5:
 
     # mc "Yuri?"
-    mc ""
+    mc "¿Yuri?"
 
 # game/script-exitmusic.rpy:476
 translate spanish script_exitmusic_0b0ec0ef:
 
     # "She doesn’t notice me at first, so I jog to catch up to her."
-    ""
+    "No se da cuenta de mi presencia, pero consigo alcanzarla."
 
 # game/script-exitmusic.rpy:479
 translate spanish script_exitmusic_b45ec791:
 
     # mc "Yuri? What’s wrong?"
-    mc ""
+    mc "¿Yuri? ¿Pasa algo?"
 
 # game/script-exitmusic.rpy:481
 translate spanish script_exitmusic_21686416:
 
     # y "O-oh h-h-hi, i-it's n-nothing."
-    y ""
+    y ""A-Ah, h-h-hola, n-no pasa n-nada.
 
 # game/script-exitmusic.rpy:482
 translate spanish script_exitmusic_a31340dd:
 
     # mc "Really?"
-    mc ""
+    mc "¿En serio?"
 
 # game/script-exitmusic.rpy:483
 translate spanish script_exitmusic_d056b281:
 
     # y 5b "Y-yeah. I-I-I’m a-al-alright, really."
-    y 5b ""
+    y 5b "C-Claro, e-e-estoy g-genial, en serio."
 
 # game/script-exitmusic.rpy:484
 translate spanish script_exitmusic_4975c81f:
 
     # "I don’t believe her."
-    ""
+    "No me lo creo. Has de mentir mejor."
 
 # game/script-exitmusic.rpy:485
 translate spanish script_exitmusic_f68fe155:
 
     # "My eyes meet Yuri's for a brief moment before she looks away. I can tell something terrible happened in the few minutes we were separated, but what could have brought her to this state?"
-    ""
+    "Mis ojos se posan en Yuri y aparta la mirada. Podría pensar que le ha pasado algo terrible en esos minutos que no hemos estado juntos, pero solo Dios sabe qué le ha hecho ponerse así."
 
 # game/script-exitmusic.rpy:486
 translate spanish script_exitmusic_e849f56f:
 
     # "I take hold of her shoulder to try and slow her down, so she can face me."
-    ""
+    "Le pongo la mano en el hombro y trato de calmarla. Así, podrá mirarme."
 
 # game/script-exitmusic.rpy:488
 translate spanish script_exitmusic_9e94a94f:
 
     # "She jumps, but complies as she comes to a halt at the school’s entrance."
-    ""
+    "Se asusta un poco, pero obedece y se para en la entrada del instituto."
 
 # game/script-exitmusic.rpy:489
 translate spanish script_exitmusic_4960b563:
 
     # mc "Yuri... Whatever’s on your mind, you can tell me."
-    mc ""
+    mc "Oye, Yuri, me gustaría... saber lo que te ocurre. Puedes decírmelo sin problemas."
 
 # game/script-exitmusic.rpy:490
 translate spanish script_exitmusic_9adbf7a0:
 
     # mc "I am your friend, after all."
-    mc ""
+    mc "Soy tu amigo, ya lo sabes."
 
 # game/script-exitmusic.rpy:491
 translate spanish script_exitmusic_2567bf72:
 
     # y 5e "I-it’s not m-m-much... it w-was just some-thing that M-M-Monika said..."
-    y 5e ""
+    y 5e "N-No es tan g-g-grave... Es a-algo que ha di-dicho M-M-Monika..."
 
 # game/script-exitmusic.rpy:492
 translate spanish script_exitmusic_6474575f:
 
     # "Monika..."
-    ""
+    "Monika..."
 
 # game/script-exitmusic.rpy:493
 translate spanish script_exitmusic_933f12db:
 
     # "What could she have said?"
-    ""
+    "¿Qué será?"
 
 # game/script-exitmusic.rpy:494
 translate spanish script_exitmusic_e22d376e:
 
     # mc "Well, if you don’t mind my asking..."
-    mc ""
+    mc "Si no te importa..."
 
 # game/script-exitmusic.rpy:495
 translate spanish script_exitmusic_a3f84fb5_1:
 
     # mc "What did she say?"
-    mc ""
+    mc "¿me podrías decir qué te dijo?"
 
 # game/script-exitmusic.rpy:496
 translate spanish script_exitmusic_64543f63:
 
     # y 5a "I... I-I don’t r-really feel c-comfortable... talking about i-it..."
-    y 5a ""
+    y 5a "No... N-No me s-siento c-cómoda... hablándolo..."
 
 # game/script-exitmusic.rpy:497
 translate spanish script_exitmusic_8bd7eb88:
 
     # y "If... you’re okay... with that..."
-    y ""
+    y "Si... te parece... Si te parece bien..."
 
 # game/script-exitmusic.rpy:498
 translate spanish script_exitmusic_efce3ed6:
 
     # "Monika must have said something really hurtful."
-    ""
+    "Joder, qué le debe haber dicho."
 
 # game/script-exitmusic.rpy:499
 translate spanish script_exitmusic_a6750495:
 
     # mc "It’s fine, really. I understand."
-    mc ""
+    mc "Vale, no te preocupes. No quiero presionarte."
 
 # game/script-exitmusic.rpy:500
 translate spanish script_exitmusic_e7ca3c52:
 
     # y "Well, if you’re s-sure about that."
-    y ""
+    y "Vale, gracias p-por entenderlo..."
 
 # game/script-exitmusic.rpy:501
 translate spanish script_exitmusic_cf726dfe:
 
     # mc "You’re always welcome to talk to me, though."
-    mc ""
+    mc "Serás siempre bienvenida a hablar conmigo si lo necesitas, ¿vale?"
 
 # game/script-exitmusic.rpy:502
 translate spanish script_exitmusic_4357c0e3:
 
     # y 5c "I-I guess... it’d be nice if you... walked w-with me."
-    y 5c ""
+    y 5c "C-Creo... Creo que estaría bien si... fuésemos andando j-juntos a casa."
 
 # game/script-exitmusic.rpy:503
 translate spanish script_exitmusic_af336883:
 
     # y "M-maybe we c-can talk on th-the way..."
-    y ""
+    y "P-Podríamos h-hablarlo p-por el camino..."
 
 # game/script-exitmusic.rpy:504
 translate spanish script_exitmusic_2020085b:
 
     # "Sayori isn’t here, and I’ve got some time to kill."
-    ""
+    "No está Sayori, y tengo algo de tiempo libre."
 
 # game/script-exitmusic.rpy:505
 translate spanish script_exitmusic_f9e5964f:
 
     # "Besides, I feel like I can’t refuse."
-    ""
+    "Y... creo que no estaría bien negarme a su propuesta."
 
 # game/script-exitmusic.rpy:506
 translate spanish script_exitmusic_6ae76d88:
 
     # "Not when she’s so emotional."
-    ""
+    "O, por lo menos, no cuando está así."
 
 # game/script-exitmusic.rpy:507
 translate spanish script_exitmusic_5630f8f2:
 
     # mc "Yeah, okay."
-    mc ""
+    mc "Sí, claro."
 
 # game/script-exitmusic.rpy:508
 translate spanish script_exitmusic_d3c94d28:
 
     # mc "I’m sure that’d be nice."
-    mc ""
+    mc "Será genial."
 
 # game/script-exitmusic.rpy:510
 translate spanish script_exitmusic_3e1d0d3c:
 
     # "Following Yuri, I take the opposite turn from my usual walk home."
-    ""
+    "Siguiendo a Yuri, vamos por el camino opuesto al que siempre hago para ir a casa."
 
 # game/script-exitmusic.rpy:511
 translate spanish script_exitmusic_f7726c0d:
 
     # "Soon enough, I find myself in a part of our town that I rarely visit."
-    ""
+    "En poco tiempo, me encuentro en una parte de la ciudad en la que apenas he estado."
 
 # game/script-exitmusic.rpy:512
 translate spanish script_exitmusic_b7697891:
 
     # "The walk between us is mostly silent."
-    ""
+    "La caminata es silenciosa."
 
 # game/script-exitmusic.rpy:513
 translate spanish script_exitmusic_1789ddc5:
 
     # "Yuri occasionally sniffles, wiping at her face."
-    ""
+    "De vez en cuando, se oye a Yuri de sollozar, limpiándose las lágrimas."
 
 # game/script-exitmusic.rpy:514
 translate spanish script_exitmusic_73c1a84f:
 
     # "What the hell did Monika say to her?"
-    ""
+    "¿Qué cojones le habrá dicho Monika para que se ponga Yuri así?"
 
 # game/script-exitmusic.rpy:515
 translate spanish script_exitmusic_cbb138b0:
 
     # "I decide to make some light conversation. Something about writing might be nice. She does take comfort in talking about subjects she’s passionate about, after all."
-    ""
+    "Decido empezar una conversación fácil de mantener. Algo sobre la escritura, creo. Le encanta hablar de lo que le apasiona, ¿no?"
 
 # game/script-exitmusic.rpy:517
 translate spanish script_exitmusic_15864e2e:
 
     # y "S-so, [player]... how do you l-like writing poems?"
-    y ""
+    y "A-Así que, [player]... ¿Cómo te g-gusta escribir poemas?"
 
 # game/script-exitmusic.rpy:518
 translate spanish script_exitmusic_d860d53a:
 
     # "She must have read my mind."
-    ""
+    "Es adivina, estoy seguro. Me ha leído la mente."
 
 # game/script-exitmusic.rpy:519
 translate spanish script_exitmusic_15ade825:
 
     # mc "Well, I usually like to listen to music while I write."
-    mc ""
+    mc "A ver, suelo escribir poemas escuchando música, si eso te sirve."
 
 # game/script-exitmusic.rpy:520
 translate spanish script_exitmusic_5da8230a:
 
     # mc "Even if it’s just quiet, playing softly in the background, you know what I mean?"
-    mc ""
+    mc "Aunque solo esté de fondo, sonando bajito... ya sabes, ¿no?"
 
 # game/script-exitmusic.rpy:521
 translate spanish script_exitmusic_f3058b37:
 
     # y 5c "R-really?"
-    y 5c ""
+    y 5c "¿E-En serio?"
 
 # game/script-exitmusic.rpy:522
 translate spanish script_exitmusic_d26be01c:
