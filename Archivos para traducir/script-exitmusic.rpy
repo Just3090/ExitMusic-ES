@@ -2566,199 +2566,199 @@ translate spanish script_exitmusic_f3058b37:
 translate spanish script_exitmusic_d26be01c:
 
     # y "Most of the time, I just feel like I can only write in silence."
-    y ""
+    y "Yo, la mayoría de las veces, siento que solo puedo escribir en silencio."
 
 # game/script-exitmusic.rpy:523
 translate spanish script_exitmusic_d2083beb:
 
     # y 4b "It leaves me at one with my mind, and lets me express my inner thoughts."
-    y 4b ""
+    y 4b "Me permite estar en sintonía con mi mente y expresar mis pensamientos más íntimos."
 
 # game/script-exitmusic.rpy:524
 translate spanish script_exitmusic_deec36b2:
 
     # y "Though sometimes, I do like listening to a soft piano track."
-    y ""
+    y "Aunque a veces, sí que me gusta escuchar alguna suave melodía de piano."
 
 # game/script-exitmusic.rpy:525
 translate spanish script_exitmusic_98b2042d:
 
     # y 2h "Don’t the lyrics alter the way you write?"
-    y 2h ""
+    y 2h "Y la letra, ¿no altera tu forma de escribir?"
 
 # game/script-exitmusic.rpy:526
 translate spanish script_exitmusic_46764745:
 
     # mc "Well, yeah, but I guess that’s what I’m looking for. Most of the time, anyway."
-    mc ""
+    mc "Pues sí, pero supongo que es eso lo que busco. Casi siempre, vamos."
 
 # game/script-exitmusic.rpy:527
 translate spanish script_exitmusic_8a54a58d:
 
     # mc "I like for the mood of the music to affect the way I write, really."
-    mc ""
+    mc "Me gusta que el rollo que tenga la música influya en cómo escribo, la verdad."
 
 # game/script-exitmusic.rpy:528
 translate spanish script_exitmusic_f6b3f0bb:
 
     # mc "Unless it’s something I’m especially passionate about. Then I can write in just about any condition."
-    mc ""
+    mc "A no ser, claro, que sea algo que me apasione de verdad. Entonces ya me da igual el percal y escribo como si nada."
 
 # game/script-exitmusic.rpy:529
 translate spanish script_exitmusic_2d37792c:
 
     # y 2v "That... actually sounds like an effective technique."
-    y 2v ""
+    y 2v "Eso... la verdad es que suena como una técnica eficaz."
 
 # game/script-exitmusic.rpy:530
 translate spanish script_exitmusic_47bf79ce:
 
     # y "I’ll be sure to try it out."
-    y ""
+    y "Sin duda, la pondré en práctica."
 
 # game/script-exitmusic.rpy:531
 translate spanish script_exitmusic_15d70524:
 
     # "At this point, Yuri seems to have perked up, her eyes dried."
-    ""
+    "Llegados a este punto, Yuri parece más animada, con los ojos ya secos."
 
 # game/script-exitmusic.rpy:532
 translate spanish script_exitmusic_11da8544:
 
     # "I decide to continue the conversation, as I still don’t know how much longer it’ll take to reach her house."
-    ""
+    "Mejor sigo dándole cháchara, que ni idea de cuánto falta para llegar a su casa."
 
 # game/script-exitmusic.rpy:533
 translate spanish script_exitmusic_a07ad32a:
 
     # mc "I know Sayori likes to hum a little tune to herself while she writes.."
-    mc ""
+    mc "Sayori suele canturrear en bajito cuando escribe, ¿sabes?..."
 
 # game/script-exitmusic.rpy:534
 translate spanish script_exitmusic_4d37d1e6:
 
     # mc "I wonder what Natsuki does."
-    mc ""
+    mc "A saber qué hará Natsuki."
 
 # game/script-exitmusic.rpy:535
 translate spanish script_exitmusic_a120a3e4:
 
     # "Natsuki..."
-    ""
+    "Natsuki..."
 
 # game/script-exitmusic.rpy:536
 translate spanish script_exitmusic_0952fa86:
 
     # "I’ve been trying to contact her since I saw her in the hospital, but she hasn’t responded to my messages."
-    ""
+    "Llevo días intentando dar con ella desde lo del hospital, pero pasa de contestarme los mensajes."
 
 # game/script-exitmusic.rpy:537
 translate spanish script_exitmusic_8a2af8bb:
 
     # "She hasn’t showed up for school at all this week, either."
-    ""
+    "Y para colmo, tampoco se ha dejado ver por el insti en toda la semana."
 
 # game/script-exitmusic.rpy:538
 translate spanish script_exitmusic_b4632c88:
 
     # "God, what could’ve happened?"
-    ""
+    "Joder, ¿qué coño le habrá podido pasar?"
 
 # game/script-exitmusic.rpy:539
 translate spanish script_exitmusic_a088ae0e:
 
     # "Was it really... her father?"
-    ""
+    "No... ¿No habrá sido... su padre?"
 
 # game/script-exitmusic.rpy:543
 translate spanish script_exitmusic_01a05247:
 
     # "I don’t want to believe it, but the pieces fit together."
-    ""
+    "No me lo quiero ni creer, joder, pero es que todo cuadra."
 
 # game/script-exitmusic.rpy:544
 translate spanish script_exitmusic_9534ddce:
 
     # "Her absence..."
-    ""
+    "Que haya faltado tanto..."
 
 # game/script-exitmusic.rpy:545
 translate spanish script_exitmusic_e16e0baf:
 
     # "Her inability to contact anybody..."
-    ""
+    "Que no haya podido comunicarse con absolutamente nadie..."
 
 # game/script-exitmusic.rpy:546
 translate spanish script_exitmusic_428a8c1e:
 
     # "What she said about him..."
-    ""
+    "Lo que dijo de él..."
 
 # game/script-exitmusic.rpy:547
 translate spanish script_exitmusic_3b77f4dc:
 
     # "But most of all..."
-    ""
+    "Pero, sobre todo..."
 
 # game/script-exitmusic.rpy:548
 translate spanish script_exitmusic_2ab43443:
 
     # "{i}The bruises.{/i}"
-    ""
+    "Los putos moratones."
 
 # game/script-exitmusic.rpy:549
 translate spanish script_exitmusic_4c315e47:
 
     # "I bite my lip, as I feel my breathing growing heavy, and my blood reaching a boiling point."
-    ""
+    "Aprieto los dientes, noto que me cuesta respirar y que la sangre me está hirviendo."
 
 # game/script-exitmusic.rpy:550
 translate spanish script_exitmusic_dd90dca9:
 
     # "If I find out he laid a finger on her, I’ll..."
-    ""
+    "Como me entere de que le ha puesto un dedo encima, juro que..."
 
 # game/script-exitmusic.rpy:551
 translate spanish script_exitmusic_35b519d9:
 
     # "I’ll..."
-    ""
+    "Y tanto que lo haré..."
 
 # game/script-exitmusic.rpy:554
 translate spanish script_exitmusic_375a563b:
 
     # y "...so I’ll be honest, I don’t disrespect her or anything."
-    y ""
+    y "...así que, para serte sincera, no es por faltarle al respeto ni nada por el estilo."
 
 # game/script-exitmusic.rpy:555
 translate spanish script_exitmusic_8021c2f5:
 
     # "Yuri’s words derail my train of thought."
-    ""
+    "Las palabras de Yuri me hacen perder el hilo."
 
 # game/script-exitmusic.rpy:556
 translate spanish script_exitmusic_9e636b5c:
 
     # y "Natsuki's poems are just a little too... simple for my liking."
-    y ""
+    y "Sus poemas, para mi gusto, son un tanto... simples."
 
 # game/script-exitmusic.rpy:557
 translate spanish script_exitmusic_86a58f7b:
 
     # y 2j "I suppose they lack a certain edge."
-    y 2j ""
+    y 2j "Supongo que carecen de cierta... agudeza."
 
 # game/script-exitmusic.rpy:558
 translate spanish script_exitmusic_9c559aac:
 
     # "I spaced out... again."
-    ""
+    "Se me ha ido el santo al cielo... otra vez."
 
 # game/script-exitmusic.rpy:559
 translate spanish script_exitmusic_69c25b65:
 
     # mc "Yeah..."
-    mc ""
+    mc "Ya..."
 
 # game/script-exitmusic.rpy:560
 translate spanish script_exitmusic_d5178d94:
