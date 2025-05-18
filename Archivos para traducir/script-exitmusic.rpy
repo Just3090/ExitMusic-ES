@@ -2608,13 +2608,13 @@ translate spanish script_exitmusic_f6b3f0bb:
 translate spanish script_exitmusic_2d37792c:
 
     # y 2v "That... actually sounds like an effective technique."
-    y 2v "Eso... la verdad es que suena como una técnica eficaz."
+    y 2v "Pues... parece bastante eficaz."
 
 # game/script-exitmusic.rpy:530
 translate spanish script_exitmusic_47bf79ce:
 
     # y "I’ll be sure to try it out."
-    y "Sin duda, la pondré en práctica."
+    y "Me aseguraré de ponerlo en práctica."
 
 # game/script-exitmusic.rpy:531
 translate spanish script_exitmusic_15d70524:
@@ -2632,7 +2632,7 @@ translate spanish script_exitmusic_11da8544:
 translate spanish script_exitmusic_a07ad32a:
 
     # mc "I know Sayori likes to hum a little tune to herself while she writes.."
-    mc "Sayori suele canturrear en bajito cuando escribe, ¿sabes?..."
+    mc "Sayori suele canturrear por lo bajo cuando escribe, ¿sabes?..."
 
 # game/script-exitmusic.rpy:534
 translate spanish script_exitmusic_4d37d1e6:
@@ -2668,13 +2668,13 @@ translate spanish script_exitmusic_b4632c88:
 translate spanish script_exitmusic_a088ae0e:
 
     # "Was it really... her father?"
-    "No... ¿No habrá sido... su padre?"
+    "No... No habrá sido... No habrá sido su padre, ¿no?"
 
 # game/script-exitmusic.rpy:543
 translate spanish script_exitmusic_01a05247:
 
     # "I don’t want to believe it, but the pieces fit together."
-    "No me lo quiero ni creer, joder, pero es que todo cuadra."
+    "No me gustaría darlo por hecho, pero es que todo cuadra, joder."
 
 # game/script-exitmusic.rpy:544
 translate spanish script_exitmusic_9534ddce:
@@ -2704,13 +2704,13 @@ translate spanish script_exitmusic_3b77f4dc:
 translate spanish script_exitmusic_2ab43443:
 
     # "{i}The bruises.{/i}"
-    "Los putos moratones."
+    "los puñeteros moratones."
 
 # game/script-exitmusic.rpy:549
 translate spanish script_exitmusic_4c315e47:
 
     # "I bite my lip, as I feel my breathing growing heavy, and my blood reaching a boiling point."
-    "Aprieto los dientes, noto que me cuesta respirar y que la sangre me está hirviendo."
+    "Me muerdo el labio, noto que me cuesta respirar y que la sangre me está hirviendo."
 
 # game/script-exitmusic.rpy:550
 translate spanish script_exitmusic_dd90dca9:
@@ -2722,13 +2722,13 @@ translate spanish script_exitmusic_dd90dca9:
 translate spanish script_exitmusic_35b519d9:
 
     # "I’ll..."
-    "Y tanto que lo haré..."
+    "Te juro que..."
 
 # game/script-exitmusic.rpy:554
 translate spanish script_exitmusic_375a563b:
 
     # y "...so I’ll be honest, I don’t disrespect her or anything."
-    y "...así que, para serte sincera, no es por faltarle al respeto ni nada por el estilo."
+    y "...y te seré sincera, no soy de faltarle el respeto, ni mucho menos."
 
 # game/script-exitmusic.rpy:555
 translate spanish script_exitmusic_8021c2f5:
@@ -2740,7 +2740,7 @@ translate spanish script_exitmusic_8021c2f5:
 translate spanish script_exitmusic_9e636b5c:
 
     # y "Natsuki's poems are just a little too... simple for my liking."
-    y "Sus poemas, para mi gusto, son un tanto... simples."
+    y "Es que, para mí, sus poemas son... muy simples."
 
 # game/script-exitmusic.rpy:557
 translate spanish script_exitmusic_86a58f7b:
