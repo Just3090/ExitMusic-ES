@@ -3214,127 +3214,127 @@ translate spanish script_exitmusic_79e64078:
 translate spanish script_exitmusic_17d5a163:
 
     # mc "I saw you at the hospital, remember?"
-    mc ""
+    mc "Te vi en el hospital, ¿recuerdas?"
 
 # game/script-exitmusic.rpy:659
 translate spanish script_exitmusic_f2ec1004:
 
     # n "Oh, t-that?"
-    n ""
+    n "Oh... ¿t-te refieres a aquello?"
 
 # game/script-exitmusic.rpy:660
 translate spanish script_exitmusic_8f6c5e0e:
 
     # "She giggles."
-    ""
+    "De pronto, se oye una risita."
 
 # game/script-exitmusic.rpy:661
 translate spanish script_exitmusic_3546194c:
 
     # n 1bz "That... that was nothing."
-    n 1bz ""
+    n 1bz "Pff, eso... eso no fue nada."
 
 # game/script-exitmusic.rpy:662
 translate spanish script_exitmusic_94300818:
 
     # n 1bt "Don’t worry about... about that, okay?"
-    n 1bt ""
+    n 1bt "No te rayes por... por eso, ¿vale?"
 
 # game/script-exitmusic.rpy:663
 translate spanish script_exitmusic_d1079e6a:
 
     # n 1bk "There’s much... worse to be worried about, ~hic~"
-    n 1bk ""
+    n 1bk "Uf, hay cosas bastante... más chungas por las que preocuparse, (¡hip!)"
 
 # game/script-exitmusic.rpy:664
 translate spanish script_exitmusic_b2b9e19d:
 
     # mc "What do you mean?"
-    mc ""
+    mc "¿A qué te refieres?"
 
 # game/script-exitmusic.rpy:665
 translate spanish script_exitmusic_c23ce6c7:
 
     # n "C-come with me..."
-    n ""
+    n "V-ven conmigo..."
 
 # game/script-exitmusic.rpy:666
 translate spanish script_exitmusic_1efad903:
 
     # n 2bs "{i}I could do with another glass anyway...{/i}"
-    n 2bs ""
+    n 2bs "Total, no me vendría mal otra copa..."
 
 # game/script-exitmusic.rpy:667
 translate spanish script_exitmusic_afef36c9:
 
     # "She grips my arm loosely, and tries to move me along with her, through her house."
-    ""
+    "Me coge el brazo sin apretar e intenta llevarme consigo a través de la casa."
 
 # game/script-exitmusic.rpy:668
 translate spanish script_exitmusic_8f81bfa7:
 
     # "As she moves, she begins erratically wobbling, as though she’s having trouble walking."
-    ""
+    "Al moverse, empieza a tambalearse de forma errática, como si le costara andar."
 
 # game/script-exitmusic.rpy:669
 translate spanish script_exitmusic_0d002f9c:
 
     # "She holds tighter onto my arm for support."
-    ""
+    "Se aferra con más fuerza a mi brazo para sostenerse."
 
 # game/script-exitmusic.rpy:670
 translate spanish script_exitmusic_2e776f6d:
 
     # "She stumbles and nearly trips. I catch her, wrapping my arm around her chest and pulling her upright."
-    ""
+    "Da un traspié y por poco se va al suelo. La sujeto, rodeándole el pecho con mi brazo y tirando de ella para enderezarla."
 
 # game/script-exitmusic.rpy:671
 translate spanish script_exitmusic_1c1a5602:
 
     # n 1bj "Ehehe, thanks..."
-    n 1bj ""
+    n 1bj "Je, je, gracias..."
 
 # game/script-exitmusic.rpy:672
 translate spanish script_exitmusic_b9b25cac:
 
     # "That’s not like her."
-    ""
+    "Ella no es así."
 
 # game/script-exitmusic.rpy:673
 translate spanish script_exitmusic_0a18c3d0:
 
     # "Normally if I grabbed her, for whatever reason, she’d freak out and call me ‘gross’ or something of that sort."
-    ""
+    "Normalmente, si la agarraba por cualquier cosa, se ponía hecha una fiera y me llamaba 'guarro' o algo por el estilo."
 
 # game/script-exitmusic.rpy:674
 translate spanish script_exitmusic_23089211:
 
     # "But here, she didn’t even flinch or say anything about it."
-    ""
+    "Pero ahora, ni siquiera se inmutó ni dijo ni mu."
 
 # game/script-exitmusic.rpy:675
 translate spanish script_exitmusic_466c2b82:
 
     # "Something feels off."
-    ""
+    "Algo no cuadra."
 
 # game/script-exitmusic.rpy:676
 translate spanish script_exitmusic_407c6f5d:
 
     # "I release my grip on her reluctantly, as she’s still staggering her way along."
-    ""
+    "La suelto a regañadientes, ya que sigue avanzando a trompicones."
 
 # game/script-exitmusic.rpy:677
 translate spanish script_exitmusic_f15faf77:
 
     # "I assist in moving her, now up the stairs, making sure she doesn’t fall and knock us both back onto the steps."
-    ""
+    "La ayudo a subir las escaleras, vigilando que no se caiga y nos arrastre a los dos de vuelta a los escalones."
 
 # game/script-exitmusic.rpy:678
 translate spanish script_exitmusic_9f5e619e:
 
     # "We finally make it up the stairs, and Natsuki guides me to her room."
-    ""
+    "Finalmente, conseguimos subir las escaleras, y Natsuki me guía hasta su habitación."
 
 # game/script-exitmusic.rpy:680
 translate spanish script_exitmusic_8e5db35b:
