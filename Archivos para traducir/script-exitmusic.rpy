@@ -4618,73 +4618,73 @@ translate spanish script_exitmusic_a63f71cb:
 translate spanish script_exitmusic_39554776:
 
     # "We reach the guest room, located across the hall from my own bedroom."
-    ""
+    "Llegamos a la sala de invitados, que está al otro lado del pasillo de mi propia habitación."
 
 # game/script-exitmusic.rpy:944
 translate spanish script_exitmusic_12c0c8fd:
 
     # "I motion towards the edge of the bed."
-    ""
+    "Hago un gesto hacia el borde de la cama."
 
 # game/script-exitmusic.rpy:945
 translate spanish script_exitmusic_a4543dad:
 
     # mc "Here, sit down for just a minute. I’ll be back with something comfy for you."
-    mc ""
+    mc "Anda, siéntate un minutito. Vuelvo enseguida con algo cómodo para ti."
 
 # game/script-exitmusic.rpy:946
 translate spanish script_exitmusic_ec8ab1d3:
 
     # "She sits down."
-    ""
+    "Se sienta."
 
 # game/script-exitmusic.rpy:948
 translate spanish script_exitmusic_c4cadab6:
 
     # "I rush into my bedroom, picking out one of my grey tops and a pair of jeans."
-    ""
+    "Entro a toda prisa en mi habitación y cojo una de mis camisetas grises y unos vaqueros."
 
 # game/script-exitmusic.rpy:950
 translate spanish script_exitmusic_c85ba5d7:
 
     # "When I bring them back to her room, she’s struggling to take off her socks."
-    ""
+    "Cuando le llevo la ropa a su habitación, está forcejeando para quitarse los calcetines."
 
 # game/script-exitmusic.rpy:951
 translate spanish script_exitmusic_a7955d89:
 
     # "I place her fresh clothes on the bed, and kneel down to help her take them off."
-    ""
+    "Dejo la ropa limpia sobre la cama y me arrodillo para ayudarla a quitárselos."
 
 # game/script-exitmusic.rpy:952
 translate spanish script_exitmusic_dfa356e1:
 
     # "She opens her mouth like she wants to say something, but reluctantly lets me help."
-    ""
+    "Abre la boca como si quisiera decir algo, pero a regañadientes me deja ayudarla."
 
 # game/script-exitmusic.rpy:953
 translate spanish script_exitmusic_a3c5e39e:
 
     # "Natsuki has been through too much today. She has next to no strength left."
-    ""
+    "Natsuki ha pasado por demasiado hoy. Apenas le quedan fuerzas."
 
 # game/script-exitmusic.rpy:955
 translate spanish script_exitmusic_4a200b26:
 
     # n "T-thanks, [player]."
-    n ""
+    n "G-Gracias, [player]."
 
 # game/script-exitmusic.rpy:956
 translate spanish script_exitmusic_e712df88:
 
     # n "I can take it from here."
-    n ""
+    n "Ya me encargo yo desde aquí."
 
 # game/script-exitmusic.rpy:957
 translate spanish script_exitmusic_e618cbe8:
 
     # mc "Are you sure? I really don’t-"
-    mc ""
+    mc "¿Estás segura? De verdad, yo no..."
 
 # game/script-exitmusic.rpy:958
 translate spanish script_exitmusic_4a676c4c:
