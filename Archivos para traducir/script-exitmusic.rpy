@@ -7612,139 +7612,139 @@ translate spanish script_exitmusic_9c71796a:
 translate spanish script_exitmusic_4cc081eb:
 
     # m 2s "Jesus, do you always have to be such a clutz?"
-    m 2s ""
+    m 2s "¡Dios mío, Sayori! ¿Es que siempre tienes que ser tan sumamente despistada?"
 
 # game/script-exitmusic.rpy:1668
 translate spanish script_exitmusic_55fe22e4:
 
     # m "Get your act together! You're supposed to be the vice president!"
-    m ""
+    m "¡Espabila de una puta vez! ¡Se supone que eres la vicepresidenta!"
 
 # game/script-exitmusic.rpy:1671
 translate spanish script_exitmusic_63fd3d83:
 
     # "Monika’s sudden snap takes us all off guard."
-    ""
+    "El repentino estallido de Monika nos pilla a todos por sorpresa."
 
 # game/script-exitmusic.rpy:1672
 translate spanish script_exitmusic_89391eb7:
 
     # "Sayori, clearly flustered, knocks the overturned teacup onto the ground, shattering it across the clubroom floor."
-    ""
+    "Sayori, claramente nerviosa, golpea la taza al revés y la hace añicos contra el suelo de la clase."
 
 # game/script-exitmusic.rpy:1674
 translate spanish script_exitmusic_14839e6f:
 
     # m 2t "For Christ’s sake, Sayori! Do you ever pay attention to what you're doing?"
-    m 2t ""
+    m 2t "¡Me cago en la puta, Sayori! ¿Tienes ojos en la cara?"
 
 # game/script-exitmusic.rpy:1675
 translate spanish script_exitmusic_4ef448fc:
 
     # s 1u "I-I-I..."
-    s 1u ""
+    s 1u "Y-Y-Yo..."
 
 # game/script-exitmusic.rpy:1676
 translate spanish script_exitmusic_dc33143e:
 
     # m 5b "You what?! You're sorry again? Just like how you were sorry about not showing up for the festival?"
-    m 5b ""
+    m 5b "¡¿'Yo' QUÉ?! ¿Vas a pedir perdón otra vez? ¿Igual que cuando 'pediste perdón' por no poner un pie en el festival?"
 
 # game/script-exitmusic.rpy:1677
 translate spanish script_exitmusic_0c392faf:
 
     # m "And dragging [player] to the hospital with you?"
-    m ""
+    m "Y bueno, ¡¿arrastrar a [player] al hospital contigo?!"
 
 # game/script-exitmusic.rpy:1679
 translate spanish script_exitmusic_a2ea979e:
 
     # m "That was pretty selfish of you."
-    m ""
+    m "Menuda egoísta de mierda."
 
 # game/script-exitmusic.rpy:1681
 translate spanish script_exitmusic_21972196:
 
     # m "If [player] was here we could've just continued on without you."
-    m ""
+    m "Si [player] hubiese aparecido, hubiésemos continuado sin ti. No nos hacías falta."
 
 # game/script-exitmusic.rpy:1682
 translate spanish script_exitmusic_20433f64:
 
     # m 1t "Or Natsuki, considering she probably would’ve weaselled her way out of reading anyway."
-    m 1t ""
+    m 1t "O incluso Natsuki, que seguramente habría encontrado alguna excusa para librarse de leer."
 
 # game/script-exitmusic.rpy:1684
 translate spanish script_exitmusic_2b83c321:
 
     # "Everyone besides Monika is in utter shock."
-    ""
+    "Todos, excepto Monika, estamos en completo shock."
 
 # game/script-exitmusic.rpy:1686
 translate spanish script_exitmusic_581fe65e:
 
     # y 4d "H-hospital..?"
-    y 4d ""
+    y 4d "¿H-Hospital...?"
 
 # game/script-exitmusic.rpy:1688
 translate spanish script_exitmusic_2f1e6729:
 
     # "Why is she being so hostile?"
-    ""
+    "¿A qué viene tanta hostilidad?"
 
 # game/script-exitmusic.rpy:1695
 translate spanish script_exitmusic_8ad15b9e:
 
     # "Sayori rushes out of the room crying, quickly followed by Natsuki, who's attempting to comfort her."
-    ""
+    "Sayori sale corriendo del aula entre lágrimas, seguida de cerca por Natsuki, que trata de darle consuelo."
 
 # game/script-exitmusic.rpy:1696
 translate spanish script_exitmusic_90b67efe:
 
     # "Yuri has moved from her usual seat to the other side of the room, her face buried in her novel."
-    ""
+    "Yuri ha cambiado de sitio, dejando de lado su lugar habitual, hundiendo su cara en un libro y evitando mirar a nadie."
 
 # game/script-exitmusic.rpy:1697
 translate spanish script_exitmusic_21018a01:
 
     # "I stand and Monika glares at me."
-    ""
+    "Me pongo de pie y Monika me lanza una mirada fulminante."
 
 # game/script-exitmusic.rpy:1699
 translate spanish script_exitmusic_afce98aa:
 
     # mc "Monika, what the hell are you doing?"
-    mc ""
+    mc "Pero, ¿¡a ti qué cojones te pasa?!"
 
 # game/script-exitmusic.rpy:1700
 translate spanish script_exitmusic_432535de:
 
     # m 2t "Go take care of her."
-    m 2t ""
+    m 2t "Ocúpate de esa niñata."
 
 # game/script-exitmusic.rpy:1701
 translate spanish script_exitmusic_8a471e64:
 
     # m "She clearly can't take care of herself."
-    m ""
+    m "Está más que claro que no sabe valerse por sí misma."
 
 # game/script-exitmusic.rpy:1702
 translate spanish script_exitmusic_14a4fc73:
 
     # "I want to scream at her after what she said."
-    ""
+    "Sus palabras me hierven por dentro y quiero gritarle."
 
 # game/script-exitmusic.rpy:1703
 translate spanish script_exitmusic_dce68835:
 
     # "I have an urge to slap her."
-    ""
+    "De hecho, quiero pegarle un buen guantazo."
 
 # game/script-exitmusic.rpy:1704
 translate spanish script_exitmusic_ef1de75e:
 
     # "Instead I rush out of the door to console Sayori, and Natsuki."
-    ""
+    "En lugar de sumirme en mis deseos de venganza, voy corriendo a ver a Sayori y a Natsuki."
 
 # game/script-exitmusic.rpy:1707
 translate spanish script_exitmusic_a5e869d8:
