@@ -9148,85 +9148,85 @@ translate spanish script_exitmusic_dd8c3fe9:
 translate spanish script_exitmusic_a599f295:
 
     # mc "I like it!"
-    mc ""
+    mc "¡Me mola!"
 
 # game/script-exitmusic.rpy:2065
 translate spanish script_exitmusic_2dde4171:
 
     # mc "You know, it fits you perfectly too."
-    mc ""
+    mc "Y, ¿sabes qué? Encima te queda perfecto."
 
 # game/script-exitmusic.rpy:2066
 translate spanish script_exitmusic_629204b7:
 
     # n 3dk "Oh, and look at this scarf!"
-    n 3dk ""
+    n 3dk "¡Hala, y mira qué pedazo de bufanda!"
 
 # game/script-exitmusic.rpy:2067
 translate spanish script_exitmusic_cb0ab183:
 
     # n "It goes perfectly with it!"
-    n ""
+    n "¡Y es que esta le viene que ni pintada a eso!"
 
 # game/script-exitmusic.rpy:2069
 translate spanish script_exitmusic_20b7acba:
 
     # "Natsuki walks to the cash register to pay."
-    ""
+    "Natsuki va a la caja a pagar."
 
 # game/script-exitmusic.rpy:2071
 translate spanish script_exitmusic_ed5c9fe7:
 
     # mc "Uhm, Natsuki..."
-    mc ""
+    mc "Ehm... Natsuki..."
 
 # game/script-exitmusic.rpy:2072
 translate spanish script_exitmusic_bac63edb:
 
     # mc "Where’d you get the money from?"
-    mc ""
+    mc "Esa pasta, ¿de dónde ha salido?"
 
 # game/script-exitmusic.rpy:2073
 translate spanish script_exitmusic_91e40ecc:
 
     # n 3dm "Oh, uh..."
-    n 3dm ""
+    n 3dm "Vaya, eh..."
 
 # game/script-exitmusic.rpy:2074
 translate spanish script_exitmusic_8a29f9ac_2:
 
     # n "I..."
-    n ""
+    n "Yo..."
 
 # game/script-exitmusic.rpy:2075
 translate spanish script_exitmusic_604d98b4:
 
     # n 1du "Well, I have to take it from my dad."
-    n 1du ""
+    n 1du "Bueno... es que no me queda otra que quitárselo a mi padre."
 
 # game/script-exitmusic.rpy:2076
 translate spanish script_exitmusic_6c260e3d:
 
     # mc "You’re stealing it?"
-    mc ""
+    mc "¿Que se lo estás robando?"
 
 # game/script-exitmusic.rpy:2077
 translate spanish script_exitmusic_0a76d4e2:
 
     # n 4dp "It’s not stealing!"
-    n 4dp ""
+    n 4dp "¡Que no es robar, joder!"
 
 # game/script-exitmusic.rpy:2078
 translate spanish script_exitmusic_66c05fdd:
 
     # n 2dq "Well, I don’t like thinking it is..."
-    n 2dq ""
+    n 2dq "A ver... es que me cuesta pensar que sea eso..."
 
 # game/script-exitmusic.rpy:2079
 translate spanish script_exitmusic_eaa68b43:
 
     # n "It’s usually for fo-{nw}"
-    n ""
+    n "Suele ser para comi-{nw}"
 
 # game/script-exitmusic.rpy:2080
 translate spanish script_exitmusic_bfa87744:
