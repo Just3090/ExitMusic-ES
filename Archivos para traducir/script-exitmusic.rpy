@@ -9106,43 +9106,43 @@ translate spanish script_exitmusic_af6ada9c_1:
 translate spanish script_exitmusic_5900fb2a:
 
     # "Shortly, the bus arrives at our stop, and we make our way to the mall. "
-    ""
+    "Al rato, el autobús para en nuestra parada y tiramos para el centro comercial."
 
 # game/script-exitmusic.rpy:2051
 translate spanish script_exitmusic_f9ec0119:
 
     # mc "So, uh... where’d you--"
-    mc ""
+    mc "Vale, y... eh... ¿por dónde dices que--"
 
 # game/script-exitmusic.rpy:2053
 translate spanish script_exitmusic_26284e1f:
 
     # "Natsuki is already dragging me into a nearby clothing store before I can finish my sentence. "
-    ""
+    "Antes de que pueda terminar la frase, Natsuki ya me está metiendo a rastras en una tienda de ropa que pilla al lado."
 
 # game/script-exitmusic.rpy:2055
 translate spanish script_exitmusic_e78d1801:
 
     # "She rips my jacket off and hands it to me."
-    ""
+    "Me quita la chaqueta de un tirón y me la planta en las manos."
 
 # game/script-exitmusic.rpy:2057
 translate spanish script_exitmusic_6f998191:
 
     # n "They’re all so cuuuute~!"
-    n ""
+    n "¡Aay, son todos monísimooos~!"
 
 # game/script-exitmusic.rpy:2058
 translate spanish script_exitmusic_6e0f5486:
 
     # n "Oh! [player]!"
-    n ""
+    n "¡Ostras! ¡[player]!"
 
 # game/script-exitmusic.rpy:2059
 translate spanish script_exitmusic_dd8c3fe9:
 
     # n "How do you like this one?"
-    n ""
+    n "Bueno, ¿y este qué tal?"
 
 # game/script-exitmusic.rpy:2064
 translate spanish script_exitmusic_a599f295:
