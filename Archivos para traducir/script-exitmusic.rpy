@@ -10336,43 +10336,43 @@ translate spanish script_exitmusic_3ea40208:
 translate spanish script_exitmusic_2a41919f:
 
     # "Natsuki nods in agreement."
-    "Natsuki asiente."
+    "Asiente."
 
 # game/script-exitmusic.rpy:2386
 translate spanish script_exitmusic_67a2ece8:
 
     # "Natsuki flips through channels."
-    ""
+    "Natsuki navega por todos los canales."
 
 # game/script-exitmusic.rpy:2387
 translate spanish script_exitmusic_8d777dcc:
 
     # "Soap, drama, comedy, comedy, soap, documentary, soap, game show, etcetera, etcetera..."
-    ""
+    "Telenovelas, dramas, comedias, más comedias, otra telenovela, un documental, otra telenovela, un concurso... en fin, lo de siempre."
 
 # game/script-exitmusic.rpy:2389
 translate spanish script_exitmusic_fc6adb48:
 
     # n 1cb "Ugh, there’s never anything good on..."
-    n 1cb ""
+    n 1cb "Joder, nunca echan nada decente..."
 
 # game/script-exitmusic.rpy:2390
 translate spanish script_exitmusic_cfcc2293:
 
     # mc "I know."
-    mc ""
+    mc "Pues sí."
 
 # game/script-exitmusic.rpy:2391
 translate spanish script_exitmusic_9a15744d:
 
     # mc "You want to look for a movie instead?"
-    mc ""
+    mc "¿Buscamos mejor alguna peli?"
 
 # game/script-exitmusic.rpy:2392
 translate spanish script_exitmusic_82b922e3:
 
     # n 1ck "Sure!"
-    n 1ck ""
+    n 1ck "¡Claro!"
 
 # game/script-exitmusic.rpy:2394
 translate spanish script_exitmusic_712b0711:
