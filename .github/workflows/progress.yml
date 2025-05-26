@@ -1,0 +1,33 @@
+name: Calculate Translation Progress
+
+on:
+  push:
+    paths:
+      - 'Archivosparatraducir/**/*.rpy'
+      - '.github/workflows/progress.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'  # Cada hora
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Calculate progress
+        run: python .github/scripts/progress_script.py
+
+      - name: Upload progress artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: progress
+          path: progress.json
