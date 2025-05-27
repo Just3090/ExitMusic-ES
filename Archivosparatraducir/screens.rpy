@@ -76,7 +76,7 @@ translate spanish strings:
 
     # game/screens.rpy:757
     old "Android port by: just6889 | President of {a=https://traduction-club.live/}Traduction Club!{/a}"
-    new "Por para Android hecho por: just6889 | Presidente de {a=https://traduction-club.live/}Traduction Club!{/a}"
+    new "Port para Android hecho por: just6889 | Presidente de {a=https://traduction-club.live/}Traduction Club!{/a}"
 
     # game/screens.rpy:765
     old "Encuentra más traducciones en {a=https://traduction-club.live/}nuestra página web{/a}."
