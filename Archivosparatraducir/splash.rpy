@@ -4,7 +4,7 @@
 translate spanish splashscreen_0320a168:
 
     # "[config.name] is a Doki Doki Literature Club fan mod that is not affiliated with Team Salvato."
-    "[config.name] es un mod de fans de Doki Doki Literature Club y no está afiliado a Team Salvato."
+    "[config.name] es un mod hecho por fans de Doki Doki Literature Club y no está afiliado a Team Salvato."
 
 # game/splash.rpy:217
 translate spanish splashscreen_db87b9f0:
