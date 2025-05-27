@@ -582,67 +582,67 @@ Not all good times must come to an end."""
 
     poem_me1_spanish = Poem(
     author = "me",
-    title = "You",
+    title = "Tú",
     text = """\
-I don't know what's happened.
-Or where you have been.
-All I can think about is bruises on your skin.
-The blood on your nose, dripped onto your clothes.
+No sé qué ha pasado,
+ni por dónde has estado.
+Solo puedo pensar en los moratones,
+en la sangre que manchaba tus pantalones.
 
-The sight...
-The sight that broke my mind.
-For that moment I was frozen in time.
-I saw you,
-Broken...
-Abused...
+Esa imagen...
+La imagen que me rompió,
+y en ese instante, el tiempo se congeló.
+Te vi,
+rota...,
+maltratada...
 
-I knew from there on,
-I would save you.
-Day turned to night,
-You on my mind.
+Supe entonces,
+que debía salvarte.
+La noche cayó,
+no dejabas de rondarme.
 
-I've been sick with worry.
-If I'm going to do something,
-I need to hurry.
+Me he puesto enfermo de tanto pensar.
+Si quiero ayudarte,
+no puedo esperar.
 
-Text after text,
-Call after call.
-The girl I cared about most,
-Is the one I couldn't save after all."""
+Mensaje tras mensaje,
+llamada tras llamada.
+La chica que más me importaba,
+es la que, al final, no pude salvar de nada."""
     )
 
     poem_s4_spanish = Poem(
     author = "sayori",
     title = "Sayori",
     text = """\
-Life isn't work
-It's nothing but suffering
-Day by day
-My mind is fluttering
+La vida no es trabajo,
+es puro dolor.
+Día tras día,
+se me va el control.
 
-Thoughts of death
-Depression is rising
-If I end up dead
-It won’t be surprising
+Pienso en la muerte,
+la tristeza me envuelve.
+Si acabo muerta,
+no será sorpresa.
 
-I stare at a wall and think about this
-I've been feeling this way since I was a kid
-I stare at my knife
-Not that, too messy
+Miro a la pared, pienso sin cesar,
+y esto lo llevo arrastrando desde hace ya.
+Miro el cuchillo...
+No, es muy sucio.
 
-I think of some pills
-Swallowed in vain
-I think of a gun
-At my head I would aim
+Pienso en las pastillas,
+tragadas en vano.
+Pienso en un arma,
+apuntándome al cráneo.
 
-I would sleep sound
-And not have to take
-The pain and the suffering
-I live through each day
+Dormiría tranquila,
+sin más que soportar
+el dolor y el peso
+que no deja de aplastar.
 
-I'm mentally exhausted trying to keep up
-But all I want is to sleep
-And never wake up."""
+Estoy agotada de fingir que todo va bien,
+cuando lo único que quiero es dormir...
+y no despertar."""
     )
 
 
@@ -650,66 +650,68 @@ And never wake up."""
     author = "sayori",
     title = "",
     text = """\
-\n\n\n\n\n\nI wish I was her."""
+\n\n\n\n\n\nOjala ser ella."""
     )
 
     poem_n4_spanish = Poem(
     author = "natsuki",
-    title = "Hero",
+    title = "Héroe",
     text = """\
-I look to the sky and can’t help but wonder,
-How you kept my life from being torn asunder.
-Was it you being nice to me when no one else would?
-Was it reading together, and thinking it good?
+Miro al cielo y me pregunto,
+cómo evitaste que mi vida se hiciera trizas.
+¿Fue tu amabilidad cuando nadie más lo fue?
+¿O compartir lecturas, que tanto bien me hizo a la vez?
 
-Was it your poems?
-Your words entranced me, making me feel weightless.
-For those moments bliss was so close, I could almost taste it.
-Then you would go.
-Back home, leaving me alone…
-With him.
+¿Fueron tus poemas,
+esas palabras que me hacían flotar?
+Durante un rato, el dolor no podía tocarme,
+casi podía saborear la felicidad.
+Y luego te ibas.
+Te marchabas a casa...
+y yo me quedaba sola.
+Sola con él.
 
-Every night was a struggle,
-That’s the least I can say.
-It only got worse day by day.
-Until you saw me.
+Cada noche era una lucha,
+lo mínimo que puedo contar.
+Y cada día era aún peor...
+Hasta que tú me llegaste a encontrar.
 
-I tried to hide I’ve been treated me this way.
-I had a plan to escape,
-I would sleep and never wake.
-But again, you came to save me,
+Intenté ocultar lo que sufría.
+Tenía un plan para huir:
+dormir... y no despertar.
+Pero apareciste. Una vez más.
 
-You saved me from the pain.
-You saved me from the hunger.
-You saved me from me.
+Me salvaste del dolor,
+me salvaste del hambre.
+Me salvaste de mí.
 
-You’ve showed me back to the path,
-Filled with your love and our laughs.
+Me enseñaste el camino de vuelta,
+con tu amor, con nuestras risas.
 
-You’re my hero."""
+Eres mi héroe."""
     )
 
     poem_mum_spanish = Poem(
     author = "mum",
-    title = "Son,",
+    title = "Cariño,",
     text = """\
-I know it’s been a while since we’ve spoken, and for that I apologize. Your father and \
-I have been promoted at our firms, making our schedules much stricter, which means I have \
-been totally unable to return your calls.
+Sé que ha pasado tiempo desde que hablamos, y lo siento. Tu padre y \
+yo hemos sido ascendidos, y nuestros nuevos cargos nos dejan sin tiempo libre \
+así que no he podido devolverte las llamadas.
 
-On top of this, our promotions have made our positions here permanent. While we're gone, the \
-house will now be your responsibility entirely to look after.
+Además, los ascensos implican que nos quedamos aquí, permanentemente. Mientras tanto, la \
+casa será tu responsabilidad por completo.
 
-I hope that you will have a chance to visit us when the school year is over. We do miss talking \
-to you. And, while I'm sure this will be long overdue, I spoke with Sayori’s mother about what \
-happened today. I’m terribly sorry you had to see what you did, but we're both extremely proud of you \
-for how you handled it.
+Espero que cuando acabe el curso puedas venir a visitarnos. Nos hace mucha ilusión hablar \
+contigo. Y aunque llegue tarde, hablé hoy con la madre de Sayori sobre lo \
+ocurrido. Lamentamos mucho que tuvieras que presenciar eso, pero estamos muy orgullosos \
+de cómo reaccionaste.
 
-So consider this a gift from your father and I.
+Considera esto un regalo de parte de tu padre y de mí.
 
-Hope to speak to you soon,
+Esperamos saber pronto de ti.
 
-Love, Mum and Dad"""
+Con cariño, Mamá y Papá."""
     )
 
     poem_me2_spanish = Poem(
