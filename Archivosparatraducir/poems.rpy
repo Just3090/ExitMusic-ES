@@ -718,61 +718,64 @@ Con cariño, Mamá y Papá."""
     author = "me",
     title = "Exit Music",
     text = """\
-So there we were together
-A white room by a window
-Where the sun came through
-No matter the outcome
-No matter the cost
-I wanted nothing but the best for you.
+Allí estábamos juntos,
+en una habitación blanca con ventana,
+por donde entraba la luz del sol.
+Daba igual el final,
+daba igual el precio.
+Yo solo quería lo mejor para ti.
 
-Your tiny hands
-Your crazy kitten smile
-Everything was perfect
-If only for a short while
-But it all came crashing down
-Because you had to leave.
+Tus manitas,
+tu sonrisa de gatito travieso...
+Todo era perfecto,
+aunque solo fuese por un rato.
+Pero todo se vino abajo,
+porque tuviste que irte.
 
-And now that you’re gone
-There is nothing left
-I didn't try my best
-And now we paid the price
-Into my life comes a darkness
-And there's nowhere left to hide
+Y ahora que ya no estás,
+no queda nada.
+No hice lo que debía,
+y lo estamos pagando.
+Una sombra se cierne sobre mí,
+y no hay dónde esconderse.
 
-In my heart and my mind
-The places that you used to reside
-Lays an overbearing silence
-Caused by your absence
-This is all on me
-How could I let this happen?
+En mi mente y en mi pecho
+queda un eco sordo,
+un silencio que grita
+que tú ya no estás.
+Todo esto ha sido culpa mía.
+¿Cómo he podido dejar que pasara?
 
-Guilt holds me like a phantom
-Regret drags me like a storm
-Calling out an urge
-I am helpless to resist
-In my darkest hour
-Whatever happens next.
+La culpa me aprieta como un fantasma,
+el remordimiento me arrastra como una tormenta.
+Hay una voz,
+una llamada...
+A la que no puedo resistirme.
+En mi hora oscura,
+que pase lo que tenga que pasar...
 
-I really messed up everything
-I can't bear my consciences wailing
-It toils with my sanity
-I run to the back and cover my ears
-To my deepest depths
-But it's the loudest sound I’ll ever hear.
+He destrozado todo.
+No soporto escuchar
+los gritos de mi conciencia.
+Me destrozan la cabeza.
+Corro al fondo de mí mismo
+intentando taparme los oídos.
+Pero es el ruido más fuerte que jamás he oído.
 
-Maybe a deep dive to face my fears
-Will help me get back to your arms
-Two feet below the surface
-I can still make out your wavy face
-And if I could just reach you
-Maybe I could leave this place.
+Quizá sumergirme a fondo,
+enfrentar mis miedos,
+me devuelva hasta ti.
+Dos metros bajo la superficie
+aún puedo ver tu cara, ondulante.
+Y si pudiera alcanzarte,
+quizá pudiera salir de aquí.
 
-(He couldn't believe how easy it was)
-(He ran and took a leap of faith)
-(Splash!)
-(Problems do have solutions, you know)
-(A lifetime of fucking things up)
-(Fixed in one determined crash.)
+(Él no se creía que fuese tan fácil.)
+(Corrió y dio un salto de fé.)
+(¡Splash!)
+(Los problemas tienen solución, ¿sabes?)
+(Una vida entera llena de putas mierdas...)
+(Arreglada en un solo golpe.)
 \n\n\n\n\n\n\n\n\n\n
-I will see you in the next life."""
+Te veré en la próxima vida."""
     )
