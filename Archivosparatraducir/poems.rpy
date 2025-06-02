@@ -409,18 +409,17 @@ Inside my head."""
     author = "sayori",
     title = "%",
     text = """\
-Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of
-Get.
-Out.
-Of.
-My.
-Head.\n\n\n
-Get out of my head before I do what I know is best for you.
-Get out of my head before I listen to everything she said to me.
-Get out of my head before I show you how much I love you.
-Get out of my head before I finish writing this poem.\n\n\n\n\n\n\n
-But a poem is never actually finished.
-It just stops moving."""
+Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi cabeza. Sal de mi
+Sal.
+De.
+Mi.
+Cabeza.\n\n\n
+Sal de mi cabeza antes de que haga lo que sé que es mejor para ti.
+Sal de mi cabeza antes de que escuche todo lo que ella me dijo.
+Sal de mi cabeza antes de que te demuestre cuánto te quiero.
+Sal de mi cabeza antes de que acabe de escribir este poema.\n\n\n\n\n\n\n
+Pero un poema nunca está realmente acabado.
+Solo deja de moverse."""
     )
 
     poem_m1_spanish = Poem(
