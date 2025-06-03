@@ -18610,7 +18610,7 @@ translate spanish script_exitmusic3_4dc86006:
 translate spanish script_exitmusic3_1b4a5be7:
 
     # mc "I can’t load it."
-    mc "No me deja cargar la imagen."
+    mc "No me deja cargar los archivos."
 
 # game/script-exitmusic.rpy:4378
 translate spanish script_exitmusic3_e004d9ef:
@@ -18622,691 +18622,691 @@ translate spanish script_exitmusic3_e004d9ef:
 translate spanish script_exitmusic3_176fd7ea:
 
     # y 2bl "Oh, well, you should check it when you get home."
-    y 2bl ""
+    y 2bl "Ah, no pasa nada. Lo ves cuando llegues a casa."
 
 # game/script-exitmusic.rpy:4380
 translate spanish script_exitmusic3_f668a7ec:
 
     # y 3bj "I’m sure you’ll {i}love{/i} it."
-    y 3bj ""
+    y 3bj "Seguro que te ENCANTA lo que vas a ver."
 
 # game/script-exitmusic.rpy:4385
 translate spanish script_exitmusic3_a6351b73:
 
     # "Natsuki returns to the table, followed by Monika, who takes her handbag."
-    ""
+    "Natsuki vuelve a la mesa, seguida de Monika, con su bolsito de mano."
 
 # game/script-exitmusic.rpy:4387
 translate spanish script_exitmusic3_e19eee6e:
 
     # m "Y'know, I should get going. I have things to get done for the club tomorrow."
-    m ""
+    m "Bueno, chicas... He de irme. Tengo cosas que hacer para mañana en el club."
 
 # game/script-exitmusic.rpy:4388
 translate spanish script_exitmusic3_1c855d09:
 
     # m 1bl "It was nice seeing you all!"
-    m 1bl ""
+    m 1bl "¡Me ha encantado veros!"
 
 # game/script-exitmusic.rpy:4393
 translate spanish script_exitmusic3_acd693a4:
 
     # "Monika takes off out the door hurriedly."
-    ""
+    "Monika sale de la cafetería con prisas."
 
 # game/script-exitmusic.rpy:4394
 translate spanish script_exitmusic3_033c9987:
 
     # mc "Come to think of it, I should probably head out as well."
-    mc ""
+    mc "Pensándolo bien, debería irme yo también."
 
 # game/script-exitmusic.rpy:4395
 translate spanish script_exitmusic3_2fa1acf1:
 
     # mc "Natsuki, I’ll walk you home."
-    mc ""
+    mc "Natsuki, te llevo a casa."
 
 # game/script-exitmusic.rpy:4396
 translate spanish script_exitmusic3_e2245e71:
 
     # y 3bf "Wait, [player]."
-    y 3bf ""
+    y 3bf "Espera, [player]."
 
 # game/script-exitmusic.rpy:4397
 translate spanish script_exitmusic3_56a999f2:
 
     # y "You don’t need to waste your time."
-    y ""
+    y "No necesitas perder más tiempo."
 
 # game/script-exitmusic.rpy:4398
 translate spanish script_exitmusic3_aa7672cf:
 
     # y 3bh "I can walk Natsuki home."
-    y 3bh ""
+    y 3bh "Puedo llevarla yo a casa."
 
 # game/script-exitmusic.rpy:4399
 translate spanish script_exitmusic3_20da4797:
 
     # n 1dq "N-no, really, I'm fine to go with [player]."
-    n 1dq ""
+    n 1dq "N-No, tranquila. Voy con [player], estoy bien yendo con él."
 
 # game/script-exitmusic.rpy:4400
 translate spanish script_exitmusic3_d754e70b:
 
     # y 3br "I-"
-    y 3br ""
+    y 3br "Yo..."
 
 # game/script-exitmusic.rpy:4401
 translate spanish script_exitmusic3_f472c123:
 
     # mc "We'll talk to you on Monday, Yuri."
-    mc ""
+    mc "Ya hablaremos el lunes, Yuri."
 
 # game/script-exitmusic.rpy:4402
 translate spanish script_exitmusic3_670070a5:
 
     # y 2bw "I- ugh..."
-    y 2bw ""
+    y 2bw "Es que... agh."
 
 # game/script-exitmusic.rpy:4404
 translate spanish script_exitmusic3_434806ff:
 
     # "Natsuki and I make our way out of the café, leaving Yuri alone at the table."
-    ""
+    "Natsuki y yo salimos de la cafetería, dejando a Yuri sola en la mesa."
 
 # game/script-exitmusic.rpy:4408
 translate spanish script_exitmusic3_2cde0693:
 
     # "With our house in sight we slow down to a normal pace."
-    ""
+    "Con planes de ir a casa, ralentizamos el ritmo."
 
 # game/script-exitmusic.rpy:4412
 translate spanish script_exitmusic3_a51de77b_1:
 
     # n "[player]..."
-    n ""
+    n "[player]..."
 
 # game/script-exitmusic.rpy:4413
 translate spanish script_exitmusic3_f49fff8f:
 
     # mc "Yeah?"
-    mc ""
+    mc "Dime."
 
 # game/script-exitmusic.rpy:4414
 translate spanish script_exitmusic3_a4301d44:
 
     # n 2en "Y-you’re really good at handling these kinds of things."
-    n 2en ""
+    n 2en "E-Eres increíble. Has sido capaz de lidiar con la situación con completa naturalidad."
 
 # game/script-exitmusic.rpy:4415
 translate spanish script_exitmusic3_bf3b9ba4:
 
     # mc "Whadda you mean?"
-    mc ""
+    mc "¿A qué te refieres?"
 
 # game/script-exitmusic.rpy:4416
 translate spanish script_exitmusic3_0afd5970:
 
     # n "Well first talking to Sayori, now Yuri?"
-    n ""
+    n "Lo hiciste con Sayori, y ahora con Yuri."
 
 # game/script-exitmusic.rpy:4417
 translate spanish script_exitmusic3_0ee537fb:
 
     # n 1em "You {i}do{/i} know Sayori’s in love with you, right?"
-    n 1em ""
+    n 1em "Es que 'sabes' que Sayori está enamorada de ti."
 
 # game/script-exitmusic.rpy:4418
 translate spanish script_exitmusic3_69c25b65_1:
 
     # mc "Yeah..."
-    mc ""
+    mc "Lo sé..."
 
 # game/script-exitmusic.rpy:4419
 translate spanish script_exitmusic3_1ea29868:
 
     # mc "She told me."
-    mc ""
+    mc "Me lo dijo."
 
 # game/script-exitmusic.rpy:4420
 translate spanish script_exitmusic3_20562ec2:
 
     # n 1ek "R-really?"
-    n 1ek ""
+    n 1ek "¿E-En serio?"
 
 # game/script-exitmusic.rpy:4421
 translate spanish script_exitmusic3_3ee4adf0:
 
     # mc "Yeah... I'll tell you what I told her."
-    mc ""
+    mc "Sí... Y te cuento lo que le dije:"
 
 # game/script-exitmusic.rpy:4422
 translate spanish script_exitmusic3_2c487d9a:
 
     # mc "It’s not like I don’t love her..."
-    mc ""
+    mc "No es que no la quiera...,"
 
 # game/script-exitmusic.rpy:4423
 translate spanish script_exitmusic3_154500ee:
 
     # mc "It’s just that it's purely as friends..."
-    mc ""
+    mc "pero es que ese amor es solo de amistad..."
 
 # game/script-exitmusic.rpy:4424
 translate spanish script_exitmusic3_183a48a4:
 
     # mc "Especially considering I was already falling for you."
-    mc ""
+    mc "Y más, considerando que ya estaba enamorado de ti antes."
 
 # game/script-exitmusic.rpy:4426
 translate spanish script_exitmusic3_5a4450a7:
 
     # "Natsuki stops walking."
-    ""
+    "Natsuki para de andar."
 
 # game/script-exitmusic.rpy:4428
 translate spanish script_exitmusic3_c2cfea71:
 
     # n 1eq "Y-you really mean that?"
-    n 1eq ""
+    n 1eq "¿E-En serio estabas enamorado desde antes?"
 
 # game/script-exitmusic.rpy:4429
 translate spanish script_exitmusic3_70ba35f0:
 
     # mc "Yeah. I love {i}you{/i}."
-    mc ""
+    mc "Sí. 'Te' quiero. A ti y solo a ti."
 
 # game/script-exitmusic.rpy:4431
 translate spanish script_exitmusic3_f13fe7fe:
 
     # "Natsuki wraps her arm around mine as we continue walking."
-    ""
+    "Natsuki entrelaza su brazo junto al mío mientras seguimos nuestra caminata."
 
 # game/script-exitmusic.rpy:4433
 translate spanish script_exitmusic3_01d43df4:
 
     # n 3et "I love you too, [player]."
-    n 3et ""
+    n 3et "Pues yo también te quiero, [player]."
 
 # game/script-exitmusic.rpy:4435
 translate spanish script_exitmusic3_beb55819:
 
     # "After a short walk we enter our house."
-    ""
+    "Tras un ratito caminando, llegamos a casa."
 
 # game/script-exitmusic.rpy:4436
 translate spanish script_exitmusic3_13ed1cb9:
 
     # "Natsuki makes her way upstairs, leaving me in the foyer."
-    ""
+    "Natsuki sube al piso de arriba y me deja en el vestíbulo."
 
 # game/script-exitmusic.rpy:4440
 translate spanish script_exitmusic3_6d25b178:
 
     # "I stare idly into the mirror."
-    ""
+    "Me quedo mirando al espejo, embobado."
 
 # game/script-exitmusic.rpy:4441
 translate spanish script_exitmusic3_c9dad639:
 
     # "The figure boxed within stares idly back."
-    ""
+    "La figura encerrada en el espejo se me queda mirando. Está vacía, no tiene alma."
 
 # game/script-exitmusic.rpy:4444
 translate spanish script_exitmusic3_ddf1dbb7:
 
     # n "[player]!"
-    n ""
+    n "¡[player]!"
 
 # game/script-exitmusic.rpy:4445
 translate spanish script_exitmusic3_5eb795a2:
 
     # n "Anyone there?"
-    n ""
+    n "¿Hay alguien ahí?"
 
 # game/script-exitmusic.rpy:4448
 translate spanish script_exitmusic3_bc16aed5:
 
     # "Natsuki wags her arm in front of my face."
-    ""
+    "Natsuki pone su mano en frente de mi cara, llamando mi atención."
 
 # game/script-exitmusic.rpy:4450
 translate spanish script_exitmusic3_afc20c75:
 
     # mc "Sorry, Natsuki."
-    mc ""
+    mc "Perdona, Natsuki."
 
 # game/script-exitmusic.rpy:4451
 translate spanish script_exitmusic3_c25d30a7:
 
     # mc "I’ve just been thinking..."
-    mc ""
+    mc "Me he quedado pensando en todo..."
 
 # game/script-exitmusic.rpy:4452
 translate spanish script_exitmusic3_904145dc:
 
     # n 1bk "It’s fine, [player]."
-    n 1bk ""
+    n 1bk "Ey, tranquilo. No pasa nada, [player]."
 
 # game/script-exitmusic.rpy:4453
 translate spanish script_exitmusic3_7e2af1cd:
 
     # n "I can’t really blame you."
-    n ""
+    n "No puedo culparte por quedarte en Babia."
 
 # game/script-exitmusic.rpy:4454
 translate spanish script_exitmusic3_53a6b727:
 
     # n 1bc "Today was nuts."
-    n 1bc ""
+    n 1bc "Hoy ha sido una mierda de día."
 
 # game/script-exitmusic.rpy:4455
 translate spanish script_exitmusic3_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-exitmusic.rpy:4457
 translate spanish script_exitmusic3_a9413194:
 
     # n 2ba "Y’know, we look really good together."
-    n 2ba ""
+    n 2ba "¿Sabes? Nos veo muy bien como parejita."
 
 # game/script-exitmusic.rpy:4460
 translate spanish script_exitmusic3_d14b32c5:
 
     # "I wrap my arm around Natsuki."
-    ""
+    "Envuelvo a Natsuki con mi brazo."
 
 # game/script-exitmusic.rpy:4461
 translate spanish script_exitmusic3_271485e3:
 
     # "We stare at the mirror for a few moments."
-    ""
+    "Nos quedamos mirando al espejo un ratito."
 
 # game/script-exitmusic.rpy:4463
 translate spanish script_exitmusic3_99134fe5:
 
     # n "Do you have your phone on you?"
-    n ""
+    n "¿Tienes el móvil?"
 
 # game/script-exitmusic.rpy:4464
 translate spanish script_exitmusic3_2f61aa8f:
 
     # mc "Yeah. Why?"
-    mc ""
+    mc "Claro. ¿Qué vas a hacer con él?"
 
 # game/script-exitmusic.rpy:4465
 translate spanish script_exitmusic3_969ec872:
 
     # n 1bd "You should take a picture of us."
-    n 1bd ""
+    n 1bd "Pues yo nada. Eres tú el que debería sacar una foto nuestra."
 
 # game/script-exitmusic.rpy:4466
 translate spanish script_exitmusic3_eaf91fdb:
 
     # n "We really do look nice together."
-    n ""
+    n "Nos vemos genial juntitos."
 
 # game/script-exitmusic.rpy:4467
 translate spanish script_exitmusic3_426934e1:
 
     # n 1bl "Cute, even."
-    n 1bl ""
+    n 1bl "Diría que cuquis."
 
 # game/script-exitmusic.rpy:4468
 translate spanish script_exitmusic3_d1a330b8:
 
     # mc "Cute, huh?"
-    mc ""
+    mc "Conque cuquis, ¿eh?"
 
 # game/script-exitmusic.rpy:4469
 translate spanish script_exitmusic3_4672199b:
 
     # mc "What happened to \"I’m not cute\"?"
-    mc ""
+    mc "¿Qué le ha pasado al 'No soy cuqui'?"
 
 # game/script-exitmusic.rpy:4470
 translate spanish script_exitmusic3_a5fa49b4:
 
     # n 2bq "I... uh..."
-    n 2bq ""
+    n 2bq "Mmm..., eh..."
 
 # game/script-exitmusic.rpy:4471
 translate spanish script_exitmusic3_d3354d8d:
 
     # n "That doesn't count!"
-    n ""
+    n "¡Hoy no vale!"
 
 # game/script-exitmusic.rpy:4472
 translate spanish script_exitmusic3_5221ff9b:
 
     # n 2bt "I was talking about both of us together, dummy."
-    n 2bt ""
+    n 2bt "Además, hablaba de los dos, no de mí sola."
 
 # game/script-exitmusic.rpy:4474
 translate spanish script_exitmusic3_9137c473:
 
     # "Digging into my pocket, I grab my phone to take a quick photo."
-    ""
+    "Rebuscando en mi bolsillo, saco mi teléfono y hago una foto rápidamente."
 
 # game/script-exitmusic.rpy:4475
 translate spanish script_exitmusic3_0062dba2:
 
     # "Natsuki is already posing."
-    ""
+    "Natsuki ya posa. Qué rapidez."
 
 # game/script-exitmusic.rpy:4477
 translate spanish script_exitmusic3_3c0a1add:
 
     # n 1bb "Take your time."
-    n 1bb ""
+    n 1bb "Tranquilo, tómate tu tiempo."
 
 # game/script-exitmusic.rpy:4478
 translate spanish script_exitmusic3_4eabd90a:
 
     # mc "Just a second, sorry..."
-    mc ""
+    mc "Tardo un segundo, perdón..."
 
 # game/script-exitmusic.rpy:4479
 translate spanish script_exitmusic3_1f56feb7_1:
 
     # mc "Ready?"
-    mc ""
+    mc "¿Lista?"
 
 # game/script-exitmusic.rpy:4482
 translate spanish script_exitmusic3_451144ac:
 
     # "Natsuki faces me, nodding enthusiastically."
-    ""
+    "Natsuki me mira, asintiendo con entusiasmo."
 
 # game/script-exitmusic.rpy:4507
 translate spanish script_exitmusic3_af36f13c:
 
     # "Immediately after she snatches the phone from me, to see how they turned out."
-    ""
+    "Me arrebata el móvil al instante para ver qué tal ha quedado."
 
 # game/script-exitmusic.rpy:4510
 translate spanish script_exitmusic3_dd873fb5:
 
     # n "This one’s really blurry. I’m getting rid of it."
-    n ""
+    n "Ha salido borrosa. La voy a borrar."
 
 # game/script-exitmusic.rpy:4511
 translate spanish script_exitmusic3_a28869be:
 
     # n "But..."
-    n ""
+    n "Aunque..."
 
 # game/script-exitmusic.rpy:4512
 translate spanish script_exitmusic3_cea51f74:
 
     # n 3bk "I really like this one."
-    n 3bk ""
+    n 3bk "Me gusta esta."
 
 # game/script-exitmusic.rpy:4514
 translate spanish script_exitmusic3_8c7db1be:
 
     # "She turns the phone to me."
-    ""
+    "Me devuelve el móvil."
 
 # game/script-exitmusic.rpy:4515
 translate spanish script_exitmusic3_0b1b9539:
 
     # "I can’t help but agree. It’s perfect."
-    ""
+    "La verdad es que estoy de acuerdo, es perfecta."
 
 # game/script-exitmusic.rpy:4517
 translate spanish script_exitmusic3_49d45134:
 
     # mc "Actually, yeah, that one’s great."
-    mc ""
+    mc "Pues sí, esta está muy bien."
 
 # game/script-exitmusic.rpy:4519
 translate spanish script_exitmusic3_448fceb0:
 
     # "Natsuki takes my hand and leads me out of the bathroom."
-    ""
+    "Natsuki coge mi mano y me saca del baño."
 
 # game/script-exitmusic.rpy:4521
 translate spanish script_exitmusic3_215549bf:
 
     # "She hops onto the couch, and I follow."
-    ""
+    "Salta al sillón y la sigo."
 
 # game/script-exitmusic.rpy:4522
 translate spanish script_exitmusic3_298de16c:
 
     # "I pluck the phone out of her hand, turning it off."
-    ""
+    "Le quito el teléfono de su mano y lo apago."
 
 # game/script-exitmusic.rpy:4525
 translate spanish script_exitmusic3_6cd77e9c:
 
     # n "Did you want to watch something?"
-    n ""
+    n "¿Quieres ver algo?"
 
 # game/script-exitmusic.rpy:4526
 translate spanish script_exitmusic3_b7d1b07f:
 
     # n 2bt "Or maybe..."
-    n 2bt ""
+    n 2bt "O..."
 
 # game/script-exitmusic.rpy:4527
 translate spanish script_exitmusic3_bdfbeef4:
 
     # mc "What you got in mind?"
-    mc ""
+    mc "¿Qué tienes en mente?"
 
 # game/script-exitmusic.rpy:4529
 translate spanish script_exitmusic3_37c20cdd:
 
     # "I give her a suggestive grin."
-    ""
+    "Le doy una sonrisa sugerente."
 
 # game/script-exitmusic.rpy:4530
 translate spanish script_exitmusic3_9bc68156:
 
     # "She ignores it."
-    ""
+    "La ignora."
 
 # game/script-exitmusic.rpy:4532
 translate spanish script_exitmusic3_370c9c68:
 
     # n 4bd "We could bake some cookies!"
-    n 4bd ""
+    n 4bd "¡Podemos hacer galletitas!"
 
 # game/script-exitmusic.rpy:4533
 translate spanish script_exitmusic3_a0019cc0:
 
     # mc "Oh, that sounds good, actually..."
-    mc ""
+    mc "Ah, pues suena genial. De hecho..."
 
 # game/script-exitmusic.rpy:4534
 translate spanish script_exitmusic3_e17f7cb1:
 
     # n 3be "[player]!"
-    n 3be ""
+    n 3be "¡[player]!"
 
 # game/script-exitmusic.rpy:4535
 translate spanish script_exitmusic3_196c11de:
 
     # n "Get your mind outta the gutter!"
-    n ""
+    n "¡Sácate esa mente tan sucia!"
 
 # game/script-exitmusic.rpy:4536
 translate spanish script_exitmusic3_c99c6e7a:
 
     # n 3bg "Dummy..."
-    n 3bg ""
+    n 3bg "Idiota..."
 
 # game/script-exitmusic.rpy:4538
 translate spanish script_exitmusic3_97bb5275:
 
     # "Natsuki stands and heads to the kitchen."
-    ""
+    "Natsuki se levanta y va a la cocina."
 
 # game/script-exitmusic.rpy:4539
 translate spanish script_exitmusic3_53f8ded9:
 
     # "Her voice echoes back through to the living room."
-    ""
+    "Su voz se vuelve eco y rebota en la sala de estar."
 
 # game/script-exitmusic.rpy:4541
 translate spanish script_exitmusic3_bdfc0575:
 
     # n "[player], did we run out of eggs?!"
-    n ""
+    n "¡Oye, [player]! ¡¿Nos hemos quedado sin huevos?!"
 
 # game/script-exitmusic.rpy:4542
 translate spanish script_exitmusic3_69d284bc:
 
     # mc "Uhm, I’m not sure..!"
-    mc ""
+    mc "¡Pues... ni idea!"
 
 # game/script-exitmusic.rpy:4543
 translate spanish script_exitmusic3_54a4c616:
 
     # mc "You checked right at the back of the fridge?!"
-    mc ""
+    mc "¡¿Te has asegurado de que no se hayan quedado en la parte de atrás de la nevera?!"
 
 # game/script-exitmusic.rpy:4544
 translate spanish script_exitmusic3_84a5ac7b:
 
     # n "Yeah... I don’t see them..!"
-    n ""
+    n "¡Sí...! ¡No los veo...!"
 
 # game/script-exitmusic.rpy:4546
 translate spanish script_exitmusic3_ef9c3c5b:
 
     # "Natsuki huffs, returning to the couch."
-    ""
+    "Natsuki refunfuña, volviendo al sillón."
 
 # game/script-exitmusic.rpy:4548
 translate spanish script_exitmusic3_07e039ae:
 
     # n 5bh "So much for baking..."
-    n 5bh ""
+    n 5bh "Pues a la mierda el hornear..."
 
 # game/script-exitmusic.rpy:4549
 translate spanish script_exitmusic3_56fcdd1f:
 
     # mc "Well, I got a better idea."
-    mc ""
+    mc "A ver, tengo una idea mejor."
 
 # game/script-exitmusic.rpy:4550
 translate spanish script_exitmusic3_cc080c2f:
 
     # n 5bo "Don’t even-"
-    n 5bo ""
+    n 5bo "No me..."
 
 # game/script-exitmusic.rpy:4552
 translate spanish script_exitmusic3_ee805ae7:
 
     # mc "I was going to suggest going out to the park, Natsuki."
-    mc ""
+    mc "Iba a decirte de ir al parque, Natsuki..."
 
 # game/script-exitmusic.rpy:4553
 translate spanish script_exitmusic3_c6499bba:
 
     # mc "Come on, you really thought I was gonna keep-"
-    mc ""
+    mc "Venga ya, ¿te pensabas que iba a decirte de seguir con...?"
 
 # game/script-exitmusic.rpy:4554
 translate spanish script_exitmusic3_ac7e716f:
 
     # n 5bs "Well, you meant it the first time."
-    n 5bs ""
+    n 5bs "Pues fuiste el primero en decirlo."
 
 # game/script-exitmusic.rpy:4555
 translate spanish script_exitmusic3_08cc0410:
 
     # mc "I-yeah, but it was just a suggestion."
-    mc ""
+    mc "Es que... Ya, sí, es que era una sugerencia."
 
 # game/script-exitmusic.rpy:4556
 translate spanish script_exitmusic3_9fef45db:
 
     # n "U-uh..."
-    n ""
+    n "E-Eh..."
 
 # game/script-exitmusic.rpy:4558
 translate spanish script_exitmusic3_80a7c784:
 
     # "Natsuki pauses for a moment, unsure of how to come back."
-    ""
+    "Natsuki se para a pensar un momento, sin saber cómo contraatacar."
 
 # game/script-exitmusic.rpy:4560
 translate spanish script_exitmusic3_6ad0ca6e:
 
     # n 5bq "A-alright, I get it."
-    n 5bq ""
+    n 5bq "V-Vale, lo pillo."
 
 # game/script-exitmusic.rpy:4561
 translate spanish script_exitmusic3_2c613dcd:
 
     # mc "Well, I tell you what..."
-    mc ""
+    mc "Bueno, pues te propongo algo..."
 
 # game/script-exitmusic.rpy:4562
 translate spanish script_exitmusic3_e23334b7:
 
     # mc "Why don’t we just order in?"
-    mc ""
+    mc "¿Quieres pedir comida para llevar?"
 
 # game/script-exitmusic.rpy:4563
 translate spanish script_exitmusic3_7505a065:
 
     # n 2bt "Y-yeah. I guess we could do that."
-    n 2bt ""
+    n 2bt "S-Sí. Podemos pedir comida para llevar, sí."
 
 # game/script-exitmusic.rpy:4564
 translate spanish script_exitmusic3_3b3116ea:
 
     # mc "So, where do you wanna order from?"
-    mc ""
+    mc "¿De dónde quieres pedir?"
 
 # game/script-exitmusic.rpy:4565
 translate spanish script_exitmusic3_35a5b4e4:
 
     # n 2bk "I dunno, really. I'm guessing you have something in mind?"
-    n 2bk ""
+    n 2bk "Pues ni pajolera idea. ¿Tienes algún sitio en mente?"
 
 # game/script-exitmusic.rpy:4566
 translate spanish script_exitmusic3_d9a057b0:
 
     # mc "I don't actually, ahaha..."
-    mc ""
+    mc "Pues no. Ja, ja, ja..."
 
 # game/script-exitmusic.rpy:4567
 translate spanish script_exitmusic3_ff1ca7ac:
 
     # mc "It was just a suggestion."
-    mc ""
+    mc "Era una sugerencia."
 
 # game/script-exitmusic.rpy:4568
 translate spanish script_exitmusic3_30195320:
 
     # n 1bc "You choose."
-    n 1bc ""
+    n 1bc "Elige tú."
 
 # game/script-exitmusic.rpy:4569
 translate spanish script_exitmusic3_65dac1f0:
 
     # mc "Pizza?"
-    mc ""
+    mc "¿Pizza?"
 
 # game/script-exitmusic.rpy:4570
 translate spanish script_exitmusic3_32123239:
 
     # n 1bk "Sure, but only if you order a dessert for us too."
-    n 1bk ""
+    n 1bk "Me vale, pero pide postre para los dos."
 
 # game/script-exitmusic.rpy:4571
 translate spanish script_exitmusic3_6651ab87:
 
     # mc "Alright."
-    mc ""
+    mc "Genial."
 
 # game/script-exitmusic.rpy:4573
 translate spanish script_exitmusic3_88263fac:
