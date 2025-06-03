@@ -4,447 +4,447 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new ""
+    new "Voz automática deshabilitada."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new ""
+    new "Voz del portapapeles activada."
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new ""
+    new "Voz automática habilitada."
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new ""
+    new "barra"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new ""
+    new "seleccionado"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new ""
+    new "área visible"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new ""
+    new "desplazamiento horizontal"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new ""
+    new "desplazamiento vertical"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new ""
+    new "activar"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new ""
+    new "desactivar"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new ""
+    new "aumentar"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new ""
+    new "disminuir"
 
     # renpy/common/00accessibility.rpy:121
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new ""
+    new "Menú de Accesibilidad. Usa las flechas arriba y abajo para navegar, y Enter para activar botones y barras."
 
     # renpy/common/00accessibility.rpy:140
     old "Font Override"
-    new ""
+    new "Cambiar fuente"
 
     # renpy/common/00accessibility.rpy:144
     old "Default"
-    new ""
+    new "Por defecto"
 
     # renpy/common/00accessibility.rpy:148
     old "DejaVu Sans"
-    new ""
+    new "DejaVu Sans"
 
     # renpy/common/00accessibility.rpy:152
     old "Opendyslexic"
-    new ""
+    new "Opendyslexic"
 
     # renpy/common/00accessibility.rpy:158
     old "Text Size Scaling"
-    new ""
+    new "Escala del tamaño del texto"
 
     # renpy/common/00accessibility.rpy:164
     old "Reset"
-    new ""
+    new "Reestablecer"
 
     # renpy/common/00accessibility.rpy:170
     old "Line Spacing Scaling"
-    new ""
+    new "Escala de espaciado de línea"
 
     # renpy/common/00accessibility.rpy:182
     old "High Contrast Text"
-    new ""
+    new "Texto de alto contraste"
 
     # renpy/common/00accessibility.rpy:184
     old "Enable"
-    new ""
+    new "Habilitar"
 
     # renpy/common/00accessibility.rpy:188
     old "Disable"
-    new ""
+    new "Deshabilitar"
 
     # renpy/common/00accessibility.rpy:195
     old "Self-Voicing"
-    new ""
+    new "Voz automática"
 
     # renpy/common/00accessibility.rpy:198
     old "Self-voicing support is limited when using a touch screen."
-    new ""
+    new "El soporte de voz automática es limitado cuando se usa una pantalla táctil."
 
     # renpy/common/00accessibility.rpy:202
     old "Off"
-    new ""
+    new "Desactivado"
 
     # renpy/common/00accessibility.rpy:206
     old "Text-to-speech"
-    new ""
+    new "Texto a voz"
 
     # renpy/common/00accessibility.rpy:210
     old "Clipboard"
-    new ""
+    new "Portapapeles"
 
     # renpy/common/00accessibility.rpy:214
     old "Debug"
-    new ""
+    new "Depuración"
 
     # renpy/common/00accessibility.rpy:228
     old "Self-Voicing Volume Drop"
-    new ""
+    new "Bajada de volumen de voz automática"
 
     # renpy/common/00accessibility.rpy:237
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new ""
+    new "Las opciones de este menú están destinadas a mejorar la accesibilidad. Puede que no funcionen con todos los juegos, y algunas combinaciones de opciones pueden hacer que el juego sea injugable. Esto no es un problema del juego o del motor. Para obtener los mejores resultados al cambiar las fuentes, intenta mantener el tamaño del texto igual al original."
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new ""
+    new "{#weekday}Lunes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new ""
+    new "{#weekday}Martes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new ""
+    new "{#weekday}Miércoles"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new ""
+    new "{#weekday}Jueves"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new ""
+    new "{#weekday}Viernes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new ""
+    new "{#weekday}Sábado"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new ""
+    new "{#weekday}Domingo"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new ""
+    new "{#weekday_short}Lun"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new ""
+    new "{#weekday_short}Mar"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new ""
+    new "{#weekday_short}Mié"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new ""
+    new "{#weekday_short}Jue"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new ""
+    new "{#weekday_short}Vie"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new ""
+    new "{#weekday_short}Sáb"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new ""
+    new "{#weekday_short}Dom"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new ""
+    new "{#month}Enero"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new ""
+    new "{#month}Febrero"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new ""
+    new "{#month}Marzo"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new ""
+    new "{#month}Abril"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new ""
+    new "{#month}Mayo"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new ""
+    new "{#month}Junio"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new ""
+    new "{#month}Julio"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new ""
+    new "{#month}Agosto"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new ""
+    new "{#month}Septiembre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new ""
+    new "{#month}Octubre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new ""
+    new "{#month}Noviembre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new ""
+    new "{#month}Diciembre"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new ""
+    new "{#month_short}Ene"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new ""
+    new "{#month_short}Feb"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new ""
+    new "{#month_short}Mar"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new ""
+    new "{#month_short}Abr"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new ""
+    new "{#month_short}May"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new ""
+    new "{#month_short}Jun"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new ""
+    new "{#month_short}Jul"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new ""
+    new "{#month_short}Ago"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new ""
+    new "{#month_short}Sep"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new ""
+    new "{#month_short}Oct"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new ""
+    new "{#month_short}Nov"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new ""
+    new "{#month_short}Dic"
 
     # renpy/common/00action_file.rpy:258
     old "%b %d, %H:%M"
-    new ""
+    new "%d %b, %H:%M"
 
     # renpy/common/00action_file.rpy:395
     old "Save slot %s: [text]"
-    new ""
+    new "Guardar partida %s: [text]"
 
     # renpy/common/00action_file.rpy:481
     old "Load slot %s: [text]"
-    new ""
+    new "Cargar partida %s: [text]"
 
     # renpy/common/00action_file.rpy:534
     old "Delete slot [text]"
-    new ""
+    new "Borrar partida [text]"
 
     # renpy/common/00action_file.rpy:613
     old "File page auto"
-    new ""
+    new "Página de guardado automático"
 
     # renpy/common/00action_file.rpy:615
     old "File page quick"
-    new ""
+    new "Página de guardado rápido"
 
     # renpy/common/00action_file.rpy:617
     old "File page [text]"
-    new ""
+    new "File page [text]"
 
     # renpy/common/00action_file.rpy:675
     old "Page {}"
-    new ""
+    new "Página {}"
 
     # renpy/common/00action_file.rpy:675
     old "Automatic saves"
-    new ""
+    new "Guardados automáticos"
 
     # renpy/common/00action_file.rpy:675
     old "Quick saves"
-    new ""
+    new "Guardados rápidos"
 
     # renpy/common/00action_file.rpy:816
     old "Next file page."
-    new ""
+    new "Página siguiente."
 
     # renpy/common/00action_file.rpy:888
     old "Previous file page."
-    new ""
+    new "Página anterior."
 
     # renpy/common/00action_file.rpy:949
     old "Quick save complete."
-    new ""
+    new "Guardado rápido completado."
 
     # renpy/common/00action_file.rpy:964
     old "Quick save."
-    new ""
+    new "Guardado rápido."
 
     # renpy/common/00action_file.rpy:983
     old "Quick load."
-    new ""
+    new "Carga rápida."
 
     # renpy/common/00action_other.rpy:379
     old "Language [text]"
-    new ""
+    new "Idioma [text]"
 
     # renpy/common/00action_other.rpy:744
     old "Open [text] directory."
-    new ""
+    new "Abrir directorio de [text]."
 
     # renpy/common/00director.rpy:712
     old "The interactive director is not enabled here."
-    new ""
+    new "El director interactivo no está habilitado aquí."
 
     # renpy/common/00director.rpy:1512
     old "⬆"
-    new ""
+    new "⬆"
 
     # renpy/common/00director.rpy:1518
     old "⬇"
-    new ""
+    new "⬇"
 
     # renpy/common/00director.rpy:1582
     old "Done"
-    new ""
+    new "Listo"
 
     # renpy/common/00director.rpy:1592
     old "(statement)"
-    new ""
+    new "(declaración)"
 
     # renpy/common/00director.rpy:1593
     old "(tag)"
-    new ""
+    new "(etiqueta)"
 
     # renpy/common/00director.rpy:1594
     old "(attributes)"
-    new ""
+    new "(atributos)"
 
     # renpy/common/00director.rpy:1595
     old "(transform)"
-    new ""
+    new "(transformación)"
 
     # renpy/common/00director.rpy:1620
     old "(transition)"
-    new ""
+    new "(transición)"
 
     # renpy/common/00director.rpy:1632
     old "(channel)"
-    new ""
+    new "(canal)"
 
     # renpy/common/00director.rpy:1633
     old "(filename)"
-    new ""
+    new "(nombre de archivo)"
 
     # renpy/common/00director.rpy:1662
     old "Change"
-    new ""
+    new "Cambiar"
 
     # renpy/common/00director.rpy:1664
     old "Add"
-    new ""
+    new "Añadir"
 
     # renpy/common/00director.rpy:1670
     old "Remove"
-    new ""
+    new "Eliminar"
 
     # renpy/common/00director.rpy:1705
     old "Statement:"
-    new ""
+    new "Declaración:"
 
     # renpy/common/00director.rpy:1726
     old "Tag:"
-    new ""
+    new "Etiqueta:"
 
     # renpy/common/00director.rpy:1742
     old "Attributes:"
-    new ""
+    new "Atributos:"
 
     # renpy/common/00director.rpy:1753
     old "Click to toggle attribute, right click to toggle negative attribute."
-    new ""
+    new "Haz clic para alternar el atributo, clic derecho para alternar el atributo negativo."
 
     # renpy/common/00director.rpy:1765
     old "Transforms:"
-    new ""
+    new "Transformaciones:"
 
     # renpy/common/00director.rpy:1776
     old "Click to set transform, right click to add to transform list."
-    new ""
+    new "Haz clic para establecer la transformación, clic derecho para añadir a la lista de transformaciones."
 
     # renpy/common/00director.rpy:1777
     old "Customize director.transforms to add more transforms."
-    new ""
+    new "Personaliza el director.transforms para añadir más transformaciones."
 
     # renpy/common/00director.rpy:1789
     old "Behind:"
-    new ""
+    new "Detrás:"
 
     # renpy/common/00director.rpy:1800
     old "Click to set, right click to add to behind list."
-    new ""
+    new "Haz clic para establecer, clic derecho para añadir a la lista de 'detrás'."
 
     # renpy/common/00director.rpy:1812
     old "Transition:"
-    new ""
+    new "Transición:"
 
     # renpy/common/00director.rpy:1822
     old "Click to set."
-    new ""
+    new "Haz clic para establecer."
 
     # renpy/common/00director.rpy:1823
     old "Customize director.transitions to add more transitions."
@@ -464,31 +464,31 @@ translate spanish strings:
 
     # renpy/common/00gui.rpy:448
     old "Are you sure?"
-    new ""
+    new "¿Seguro?"
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to delete this save?"
-    new ""
+    new "¿Quieres borrar esta partida?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "¿Quieres sobrescribir tu partida?"
 
     # renpy/common/00gui.rpy:451
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "Al cargar se perderá el progreso no guardado.\n¿Estás seguro de que quieres hacerlo?"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to quit?"
-    new ""
+    new "¿Quieres salir del juego?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "¿Quieres volver al menú principal?\nPerderás el progreso no guardado."
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new ""
+    new "¿Quieres continuar desde donde lo dejaste la última vez?"
 
     # renpy/common/00gui.rpy:455
     old "Are you sure you want to end the replay?"
@@ -1168,57 +1168,57 @@ translate spanish strings:
 
     # renpy/common/_errorhandling.rpym:682
     old "Copy Markdown"
-    new ""
+    new "Copiar Markdown"
 
     # renpy/common/_errorhandling.rpym:684
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Copia el archivo traceback.txt al portapapeles como Markdown para Discord."
 
     # renpy/common/_errorhandling.rpym:716
     old "An exception has occurred."
-    new ""
+    new "Ha ocurrido una excepción."
 
     # renpy/common/_errorhandling.rpym:739
     old "Rollback"
-    new ""
+    new "Deshacer"
 
     # renpy/common/_errorhandling.rpym:741
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new ""
+    new "Intenta volver a un momento anterior, permitiéndote guardar o elegir una opción distinta."
 
     # renpy/common/_errorhandling.rpym:744
     old "Ignore"
-    new ""
+    new "Ignorar"
 
     # renpy/common/_errorhandling.rpym:748
     old "Ignores the exception, allowing you to continue."
-    new ""
+    new "Ignora la excepción, permitiéndote continuar."
 
     # renpy/common/_errorhandling.rpym:750
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "Ignira la excepción, permitiéndote continuar. Esto a menudo lleva a errores adicionales."
 
     # renpy/common/_errorhandling.rpym:754
     old "Reload"
-    new ""
+    new "Recargar"
 
     # renpy/common/_errorhandling.rpym:756
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new ""
+    new "Recarga el juego desde el disco, guardando y restaurando el estado del juego si es posible."
 
     # renpy/common/_errorhandling.rpym:759
     old "Console"
-    new ""
+    new "Consola"
 
     # renpy/common/_errorhandling.rpym:761
     old "Opens a console to allow debugging the problem."
-    new ""
+    new "Abre una consola para permitir depurar el problema."
 
     # renpy/common/_errorhandling.rpym:774
     old "Quits the game."
-    new ""
+    new "Salir del juego."
 
     # renpy/common/_errorhandling.rpym:796
     old "Parsing the script failed."
-    new ""
+    new "El análisis del script falló."
 
