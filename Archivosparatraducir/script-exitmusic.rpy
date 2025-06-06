@@ -24142,7 +24142,7 @@ translate spanish script_exitmusic3_b409a60b:
 translate spanish script_exitmusic3_b2756798:
 
     # "I feel something nudge my shoulder."
-    "Siento que algo me toca el hombro,"
+    "Siento que algo me toca el hombro."
 
 # game/script-exitmusic.rpy:5758
 translate spanish script_exitmusic3_67a30ad1:
