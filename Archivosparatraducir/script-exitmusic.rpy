@@ -23956,181 +23956,181 @@ translate spanish script_exitmusic3_e8207669:
 translate spanish script_exitmusic3_51038adf:
 
     # "Natsuki sits down on the rim of the bathtub, hands buried in her hair, her locks beginning to match her ribbons. "
-    ""
+    "Natsuki se sienta en el borde de la bañera con las manos revueltas en su pelo. Poco a poco, sus mechones empiezan a combinar con sus lacitos."
 
 # game/script-exitmusic.rpy:5702
 translate spanish script_exitmusic3_ebc3a4e0:
 
     # "I grab her arms, careful not to touch her wounds."
-    ""
+    "La cojo por los brazos con el suficiente cuidado de no tocar sus heridas."
 
 # game/script-exitmusic.rpy:5703
 translate spanish script_exitmusic3_bed656ec:
 
     # "I pull her to her feet."
-    ""
+    "Trato de ponerla de pie."
 
 # game/script-exitmusic.rpy:5705
 translate spanish script_exitmusic3_68def3cf:
 
     # mc "We’re going. Now."
-    mc ""
+    mc "Nos vamos. Ya."
 
 # game/script-exitmusic.rpy:5706
 translate spanish script_exitmusic3_9161cc37:
 
     # n 1gcry "No! I-I don’t want to!"
-    n 1gcry ""
+    n 1gcry "¡Que no! ¡N-No quiero irme!"
 
 # game/script-exitmusic.rpy:5708
 translate spanish script_exitmusic3_06ea5b5d:
 
     # "Natsuki’s knees buckle, and she begins to fall forward."
-    ""
+    "Las rodillas de Natsuki flaquean, por lo que empieza a caerse."
 
 # game/script-exitmusic.rpy:5709
 translate spanish script_exitmusic3_f112450d:
 
     # "I catch her on the way down."
-    ""
+    "La aguanto antes de que caiga."
 
 # game/script-exitmusic.rpy:5711
 translate spanish script_exitmusic3_e438a64e:
 
     # mc "This isn’t negotiable, we’re going."
-    mc ""
+    mc "Esto no es negociable, nos vamos ahora mismo."
 
 # game/script-exitmusic.rpy:5712
 translate spanish script_exitmusic3_36b90cd3:
 
     # n 1gtf "N-no…"
-    n 1gtf ""
+    n 1gtf "N-No..."
 
 # game/script-exitmusic.rpy:5716
 translate spanish script_exitmusic3_4cc6d2ac:
 
     # "Reaching into my pocket for my phone, I speed-dial the emergency number and press my phone to the side of my head."
-    ""
+    "Rebuscando en mi bolsillo, marco el número de emergencias y me pongo el teléfono en uno de los laterales de mi cabeza."
 
 # game/script-exitmusic.rpy:5717
 translate spanish script_exitmusic3_7d451272:
 
     # "I explain the situation. The operator assures me that an ambulance is on it’s way."
-    ""
+    "Les explico lo ocurrido. El operador me asegura de que viene una ambulancia."
 
 # game/script-exitmusic.rpy:5718
 translate spanish script_exitmusic3_f7b4a627:
 
     # "I gently lift Natsuki from the bloody tiles, carrying her downstairs."
-    ""
+    "Levanto a Natsuki con cuidado del suelo totalmente ensangrentado, cargando con ella escaleras abajo."
 
 # game/script-exitmusic.rpy:5720
 translate spanish script_exitmusic3_cdccab5a:
 
     # "I lay her down on the couch, and rush to the kitchen for a towel."
-    ""
+    "La dejo en el sofá y corro a la cocina a por un paño."
 
 # game/script-exitmusic.rpy:5721
 translate spanish script_exitmusic3_aaba16c6:
 
     # "I kneel beside her trying to minimize the bleeding, staring out the window waiting for the flashing lights to appear."
-    ""
+    "Me arrodillo delante de ella tratando de minimizar el sangrado, mirando a la ventana y esperando unas luces parpadeantes que alivien este momento de tensión."
 
 # game/script-exitmusic.rpy:5724
 translate spanish script_exitmusic3_6e4a4951:
 
     # "After what feels like hours, the ambulance arrives, two paramedics hop out and wheel the gurney to my door."
-    ""
+    "Después de lo que he sentido como horas, llega la ambulancia. Dos paramédicos saltan de la parte de atrás y traen una camilla hasta mi puerta."
 
 # game/script-exitmusic.rpy:5725
 translate spanish script_exitmusic3_5fd32ce2:
 
     # "As I pick Natsuki up once more, I notice she’s unconscious."
-    ""
+    "Al querer levantar a Natsuki del sofá, noto que está inconsciente."
 
 # game/script-exitmusic.rpy:5726
 translate spanish script_exitmusic3_ffffa11e:
 
     # "The paramedics roll the gurney into the living room, I lay her down onto it."
-    ""
+    "Los paramédicos llevan la camilla dentro de mi casa y la acuesto ahí."
 
 # game/script-exitmusic.rpy:5727
 translate spanish script_exitmusic3_27d20304:
 
     # "Immediately they begin to rush her back to their vehicle."
-    ""
+    "Inmediatamente después de acostarla, se la llevan dentro de la ambulancia."
 
 # game/script-exitmusic.rpy:5728
 translate spanish script_exitmusic3_fd6adbe5:
 
     # "I follow."
-    ""
+    "Sigo a Natsuki."
 
 # game/script-exitmusic.rpy:5730
 translate spanish script_exitmusic3_c9363f66:
 
     # mc "Wait! Can I stay with her?"
-    mc ""
+    mc "¡Un momento! ¿Puedo quedarme con ella?"
 
 # game/script-exitmusic.rpy:5732
 translate spanish script_exitmusic3_01d49908:
 
     # "The attendant nods, motioning for me to get in."
-    ""
+    "Me asienten, haciendo señas para que entre."
 
 # game/script-exitmusic.rpy:5734
 translate spanish script_exitmusic3_d725ece9:
 
     # "I jump into the ambulance, and immediately we speed off to the hospital."
-    ""
+    "Salto a la parte de atrás y salen a toda prisa hacia el hospital."
 
 # game/script-exitmusic.rpy:5735
 translate spanish script_exitmusic3_36c05d7b:
 
     # "I can’t do anything but watch as the paramedic does everything he can to stop the bleeding."
-    ""
+    "No puedo hacer nada más que ver cómo el paramédico trata de parar el sangrado con todo lo que tiene."
 
 # game/script-exitmusic.rpy:5736
 translate spanish script_exitmusic3_86d1dee1:
 
     # "I’ve answered all the questions I could, of course mentioning that she's probably gotten through a whole bottle of wine."
-    ""
+    "He respondido todas las preguntas que me hacían, mencionando que se podría haber tragado una botella de vino entera."
 
 # game/script-exitmusic.rpy:5737
 translate spanish script_exitmusic3_55ef5de5:
 
     # "I overhear the driver speaking on the radio, mentioning that Natsuki’s wounds are \"fairly deep\"."
-    ""
+    "Escucho al conductor diciendo en una radio que las heridas de Natsuki son bastante profundas."
 
 # game/script-exitmusic.rpy:5738
 translate spanish script_exitmusic3_940464d0:
 
     # "The ambulance comes to a sudden halt."
-    ""
+    "La ambulancia mete un frenazo repentino."
 
 # game/script-exitmusic.rpy:5739
 translate spanish script_exitmusic3_19db31c3:
 
     # "The back doors immediately swing open, and Natsuki is rolled out."
-    ""
+    "Las puertas traseras se abren y Natsuki se va dentro."
 
 # game/script-exitmusic.rpy:5740
 translate spanish script_exitmusic3_13afd866:
 
     # "I try to follow with her into the A&E ward, to no avail."
-    ""
+    "Intento seguirla hasta la sala de urgencias, pero no me dejan."
 
 # game/script-exitmusic.rpy:5741
 translate spanish script_exitmusic3_94c826f5:
 
     # "Instead, a nurse intercepts me, and leads me to the waiting area."
-    ""
+    "En lugar de dejarme entrar, una enfermera me guía hasta la sala de espera."
 
 # game/script-exitmusic.rpy:5743
 translate spanish script_exitmusic3_c0e1d95e:
 
     # "She also mentions that they will keep me updated."
-    ""
+    "Me dice que me mantendrá al tanto de todo."
 
 # game/script-exitmusic.rpy:5744
 translate spanish script_exitmusic3_b409a60b:
