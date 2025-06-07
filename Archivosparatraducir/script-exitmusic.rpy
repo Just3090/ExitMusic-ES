@@ -26584,13 +26584,13 @@ translate spanish script_exitmusic3_3c117ac2:
 translate spanish script_exitmusic3_efccfaf5_1:
 
     # "I..."
-    "La..."
+    "Solo..."
 
 # game/script-exitmusic.rpy:6441
 translate spanish script_exitmusic3_9c1ad407:
 
     # "I just want her back…"
-    "La quiero de vuelta..."
+    "Yo solo quiero tenerla de vuelta..."
 
 # game/script-exitmusic.rpy:6444
 translate spanish script_exitmusic3_8dca9f08:
@@ -26608,7 +26608,7 @@ translate spanish script_exitmusic3_e1f6eb21:
 translate spanish script_exitmusic3_6ad645cb:
 
     # "Monika’s stood above me, trying to talk to me."
-    "Monika está por encima mía, intentando hablarme."
+    "Monika está por encima de mí, intentando hablarme."
 
 # game/script-exitmusic.rpy:6448
 translate spanish script_exitmusic3_5e2507c5:
