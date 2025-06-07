@@ -940,7 +940,7 @@ translate spanish script_exitmusic_e6b340fa:
 translate spanish script_exitmusic_c400d94d:
 
     # "I take a seat once more, anxious now about Natsuki’s wellbeing as well as Sayori’s."
-    "Me siento una vez más, nervioso no solo por Sayori, sino ahora también por Natsuki. "
+    "Me siento una vez más, nervioso no solo por Sayori, sino ahora también por Natsuki."
 
 # game/script-exitmusic.rpy:205
 translate spanish script_exitmusic_54455e3b:
