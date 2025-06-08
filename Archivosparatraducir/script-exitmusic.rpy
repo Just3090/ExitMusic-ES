@@ -11518,7 +11518,7 @@ translate spanish script_exitmusic_0444d275_4:
 translate spanish script_exitmusic_10c602d2:
 
     # "I jerk awake, waking Natsuki as well."
-    "Me despierto deo golpe, despertando a Natsuki a causa de esto."
+    "Me despierto de golpe, despertando también a Natsuki."
 
 # game/script-exitmusic.rpy:2650
 translate spanish script_exitmusic_2787f9a7:
