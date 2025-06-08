@@ -6892,7 +6892,7 @@ translate spanish script_exitmusic_5bd3d2b8:
 translate spanish script_exitmusic_87ec8739:
 
     # y 2s "Well I’m glad you two are back now, and healthy."
-    y 2s "Bueno, pues me alegro que vengáis al club con más fuerza y más salud."
+    y 2s "Bueno, pues me alegro de que vengáis al club con más fuerza y más salud."
 
 # game/script-exitmusic.rpy:1480
 translate spanish script_exitmusic_59959027:
