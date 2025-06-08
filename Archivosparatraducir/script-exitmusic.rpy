@@ -7288,7 +7288,7 @@ translate spanish script_exitmusic_c5f084c6:
 translate spanish script_exitmusic_617ec330:
 
     # "The new set has five cups."
-    "Este nuevo set tiene 5 tazas."
+    "Este nuevo set tiene cinco tazas."
 
 # game/script-exitmusic.rpy:1573
 translate spanish script_exitmusic_69bbba88:
