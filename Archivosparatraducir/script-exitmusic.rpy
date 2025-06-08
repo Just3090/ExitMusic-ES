@@ -14482,7 +14482,7 @@ translate spanish script_exitmusic3_1b98762d:
 translate spanish script_exitmusic3_1c8119ba:
 
     # y "I take it you’re here for the club?"
-    y "Asumo que estás aquí para ir al club, ¡no?"
+    y "Asumo que estás aquí para ir al club, ¿no?"
 
 # game/script-exitmusic.rpy:3364
 translate spanish script_exitmusic3_c6979d31:
