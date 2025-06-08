@@ -3838,7 +3838,7 @@ translate spanish script_exitmusic_6b16a0c0:
 translate spanish script_exitmusic_05e45628:
 
     # "Dropping the phone, I pull Natsuki in close to me, hoping, praying that she wakes up."
-    "Soltando el teléfono, me acerco a Natsuki, rezando y esperando por su despertar"
+    "Soltando el teléfono, me acerco a Natsuki, rezando y esperando por su despertar."
 
 # game/script-exitmusic.rpy:773
 translate spanish script_exitmusic_89f4b06f:
