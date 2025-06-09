@@ -18844,7 +18844,7 @@ translate spanish script_exitmusic3_13ed1cb9:
 translate spanish script_exitmusic3_6d25b178:
 
     # "I stare idly into the mirror."
-    "Me quedo mirando al espejo, embobado."
+    "Una vez entro, me quedo mirando al espejo, embobado."
 
 # game/script-exitmusic.rpy:4441
 translate spanish script_exitmusic3_c9dad639:
@@ -20656,7 +20656,7 @@ translate spanish script_exitmusic3_700e6051:
 translate spanish script_exitmusic3_0bad4e1d:
 
     # s 4bj "No, I’m not fucking alright!!"
-    s 4bj "¡¡No, no estoy putamente bien!!"
+    s 4bj "¡¡No, no estoy bien, joder!!"
 
 # game/script-exitmusic.rpy:4895
 translate spanish script_exitmusic3_8e84d32d:
@@ -21118,7 +21118,7 @@ translate spanish script_exitmusic3_a02e04dd:
 translate spanish script_exitmusic3_4307a785:
 
     # "Moving to the counter, I start boiling a pot of coffee."
-    "Yendo a la encimera, caliento la teteta."
+    "Yendo a la encimera, caliento la cafeteraa."
 
 # game/script-exitmusic.rpy:5006
 translate spanish script_exitmusic3_3695e678:
@@ -21562,7 +21562,7 @@ translate spanish script_exitmusic3_d3ec48b3:
 translate spanish script_exitmusic3_d8f775ad:
 
     # "Natsuki flashes a quick grin, winking at me from inside the building."
-    "Natsuki me sonríe rápidamente, quiñándome el ojo desde dentro del edificio."
+    "Natsuki me sonríe rápidamente, guiñándome el ojo desde dentro del edificio."
 
 # game/script-exitmusic.rpy:5111
 translate spanish script_exitmusic3_c8ae290b:
@@ -21796,7 +21796,7 @@ translate spanish script_exitmusic3_0a4dbc8d:
 translate spanish script_exitmusic3_b8508df1:
 
     # "The barista calls out our order."
-    "EL barista nos llama para recoger el pedido."
+    "El barista nos llama para recoger el pedido."
 
 # game/script-exitmusic.rpy:5162
 translate spanish script_exitmusic3_63dcad17:
@@ -21922,7 +21922,7 @@ translate spanish script_exitmusic3_2e5e3092:
 translate spanish script_exitmusic3_d60ac0c6:
 
     # "Just another guest."
-    "Es solamente un invitado."
+    "Solo es un recién llegado, nada más."
 
 # game/script-exitmusic.rpy:5190
 translate spanish script_exitmusic3_2bdea771:
@@ -22012,7 +22012,7 @@ translate spanish script_exitmusic3_786ce173:
 translate spanish script_exitmusic3_7e9a9c41:
 
     # n 1ct "I... I love you."
-    n 1ct "Te amo..."
+    n 1ct "Te quiero..."
 
 # game/script-exitmusic.rpy:5215
 translate spanish script_exitmusic3_bffea011:
@@ -22048,7 +22048,7 @@ translate spanish script_exitmusic3_829a6fd4:
 translate spanish script_exitmusic3_4fdd195b:
 
     # "I look at the clock, somehow hours have passed without my knowledge."
-    "Miro el reloj, observando que han pasado algunas horas y no me he coscado."
+    "Miro el reloj, observando que han pasado algunas horas y no me he dado cuenta."
 
 # game/script-exitmusic.rpy:5229
 translate spanish script_exitmusic3_abe7b541:
@@ -22336,7 +22336,7 @@ translate spanish script_exitmusic3_59133eec:
 translate spanish script_exitmusic3_fdb9a09a:
 
     # n "It’d be {i}massive{/i} on me."
-    n "Que me va a quedar 'apoteósicamente' grande, [player]. Ni lo intentes."
+    n "Me quedará 'apoteósicamente' grande..."
 
 # game/script-exitmusic.rpy:5315
 translate spanish script_exitmusic3_e62e49d9:
