@@ -23170,7 +23170,7 @@ translate spanish script_exitmusic3_9f9f7a07:
 translate spanish script_exitmusic3_4503b0e2:
 
     # "Hopefully I can find Monika, and tell her to keep Yuri away from me."
-    "Solo espero en encontrar a Monika y decirle que mantenga a Yuri lejos de mí."
+    "Solo espero encontrarme a Monika y decirle que mantenga a Yuri lejos de mí."
 
 # game/script-exitmusic.rpy:5505
 translate spanish script_exitmusic3_8417cfed:
@@ -23668,7 +23668,7 @@ translate spanish script_exitmusic3_7febec28:
 translate spanish script_exitmusic3_01a8c027:
 
     # mc "Wh-what… why..?"
-    mc "¿Qu-Qué...? ¿Por qué...^?"
+    mc "¿Qu-Qué...? ¿Por qué...?"
 
 # game/script-exitmusic.rpy:5638
 translate spanish script_exitmusic3_7d96b3ea:
@@ -23680,7 +23680,7 @@ translate spanish script_exitmusic3_7d96b3ea:
 translate spanish script_exitmusic3_b1c28721:
 
     # n 1gth "Th-those kids… they f-followed me to my class, a-a-and they were…"
-    n 1gth "E-Esos niños..., me s-siguieron a mi clase, y e-e-eestaban..."
+    n 1gth "E-Esos niños..., me s-siguieron a mi clase, y e-e-estaban..."
 
 # game/script-exitmusic.rpy:5640
 translate spanish script_exitmusic3_ed7a31be:
@@ -25660,7 +25660,7 @@ translate spanish script_exitmusic3_86784683:
 translate spanish script_exitmusic3_b24826ee:
 
     # "I can feel the tears welling up in my eyes again."
-    "Siento lágrimas formándose en mis ojos otra vez.,"
+    "Siento lágrimas formándose en mis ojos otra vez."
 
 # game/script-exitmusic.rpy:6195
 translate spanish script_exitmusic3_efccfaf5:
@@ -25792,7 +25792,7 @@ translate spanish script_exitmusic3_87f7cfa4:
 translate spanish script_exitmusic3_c2e85fab:
 
     # m "[player] needs some space."
-    m "[player] ha dicho que necesito algo de tiempo a solas."
+    m "[player] ha dicho que necesita algo de tiempo a solas."
 
 # game/script-exitmusic.rpy:6225
 translate spanish script_exitmusic3_17088fb3:
@@ -25984,7 +25984,7 @@ translate spanish script_exitmusic3_ff72ef43:
 translate spanish script_exitmusic3_4a61c35b:
 
     # "Being the last girl to leave, Monika slams the door behind her."
-    "Siendo la última en irse, Monika pega un portazo al irse."
+    "Siendo la última, Monika pega un portazo al irse."
 
 # game/script-exitmusic.rpy:6294
 translate spanish script_exitmusic3_75c2f2e7:
@@ -26140,7 +26140,7 @@ translate spanish script_exitmusic3_99548667:
 translate spanish script_exitmusic3_a6e16155:
 
     # "I leave the bathroom, the tap still running."
-    "Salgo del baño mientras wl grifo sigue abierto."
+    "Salgo del baño mientras el grifo sigue abierto."
 
 # game/script-exitmusic.rpy:6334
 translate spanish script_exitmusic3_3d157154:
@@ -26728,7 +26728,7 @@ translate spanish script_exitmusic3_a82dc60e:
 translate spanish script_exitmusic3_68458538:
 
     # mc "Because it {i}was{/i} my fault."
-    mc "Porque lo fue, Monika. Porque lo fue."
+    mc "Porque es mi culpa, Monika. Porque lo es."
 
 # game/script-exitmusic.rpy:6470
 translate spanish script_exitmusic3_fd372d88:
@@ -27334,7 +27334,7 @@ translate spanish script_exitmusic3_3cf9cc34:
 translate spanish script_exitmusic3_39766118:
 
     # m 1x "We all love you, [player]."
-    m 1x "Te queremos, [player]. Todas las chicas."
+    m 1x "Te queremos, [player]. Todas nosotras."
 
 # game/script-exitmusic.rpy:6610
 translate spanish script_exitmusic3_4305e920:
@@ -27490,7 +27490,7 @@ translate spanish script_exitmusic3_cbd61c93:
 translate spanish script_exitmusic3_911a47f6:
 
     # "I will see you in the next life."
-    "Te veré en la siguiente vida."
+    "Te veré en la próxima vida."
 
 # game/script-exitmusic.rpy:6649
 translate spanish script_exitmusic3_a20cefa7_2:
